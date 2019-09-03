@@ -169,7 +169,7 @@ case $prj in
 		;;
 	p10h)
 		DEFCONFIG="sfa18_"$ver"_p10h"
-		[ -z $ddr2 ] && ddr2=nt5tu32m16eg
+		[ -z $ddr2 ] && ddr2=em68b16cwqh
 		add_sfbl_flag rgmii=1
 		;;
 	a28)
