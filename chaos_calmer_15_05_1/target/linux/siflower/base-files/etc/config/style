@@ -11,7 +11,7 @@ config setting 'font'
     option foot '#999'
 
 # title
-    option title '#df0007'
+    option title '#00baff'
 
 # all button
     option button 'white'
@@ -49,11 +49,11 @@ config setting 'background'
     option input_disabled '#efefef'
 
 # for all button
-    option button '#df0007'
+    option button '#00baff'
     option button_disabled 'darkgray'
 
 # top nav background
-    option header 'linear-gradient(red,#9b1b1b)'
+    option header 'linear-gradient(#00baff,#017ac0)'
 
 # at bottom background, technical support
     option foot '#dfdfdf'
@@ -62,7 +62,7 @@ config setting 'background'
     option left_nav '#353535'
 
 # help and wds div top background
-    option help_and_wds_Top '#df0007'
+    option help_and_wds_Top '00baff'
 
 # help inner background
     option Help 'white'
@@ -75,7 +75,7 @@ config setting 'background'
     option rightBg 'white'
 
 # for red background , use white text
-    option com_base '#df0007'
+    option com_base '#00baff'
 
 # login table background
     option loginTable 'white'
@@ -84,9 +84,9 @@ config setting 'background'
 config setting 'text'
 
 # website
-    option website 'www.siflower.com.cn'
-    option website_address 'http://www.siflower.com.cn'
+    option website 'www.amediatech.cn'
+    option website_address 'http://www.amediatech.cn'
 
 # technical support translate
-    option zh_technical_support '技术支持热线 +021 5131-7015'
-    option en_technical_support 'Technical support hotline +021 5131-7015'
+    option zh_technical_support '技术支持热线 +0755 28106665'
+    option en_technical_support 'Technical support hotline +0755 28106665'

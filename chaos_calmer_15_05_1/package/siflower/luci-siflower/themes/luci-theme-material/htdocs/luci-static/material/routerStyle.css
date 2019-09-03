@@ -585,7 +585,7 @@ div.wizardContent {
 }
 
 div.wizardContent div.wizardLogo {
-	height: 50px;
+	height: 70px;
 	background: url(images/logo.png) no-repeat 0 18px;
 }
 
@@ -2309,7 +2309,7 @@ div.block {
 div.WDSFNote {
     height: 136px;
     margin-top: 13px;
-	border: 1px solid #c62a2a;
+	border: 1px solid #00aeff;
     background: #fcfcfc;
 }
 p.WDSTitle,th.WDSTitle {
@@ -2317,7 +2317,7 @@ p.WDSTitle,th.WDSTitle {
 	color: #fff;
     font-size: 14px;
     font-weight: bold;
-	background: #df0007;
+	background: #00aeff;
     text-align: center !important;
 	padding: 0;
 	height: 30px;
@@ -2340,7 +2340,7 @@ span.WDSRefresh i {
 	background: url(images/sibasic.png) no-repeat -133px -171px;/*TODO can use sibasic png*/
 }
 span.WDSRefresh span {
-	color: #8c000a;
+	color: #00aeff;
 	font-size: 14px;
 	margin-left: 3px;
 	vertical-align: middle;
