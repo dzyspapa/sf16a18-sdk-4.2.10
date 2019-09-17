@@ -112,9 +112,9 @@ local wds_enable = wirelessnew.wds_is_enabled()
 				<input class="apartheid" type="checkbox"> </td><td class="wan-td-right"><%:Open AP isolation%>
         </td></tr>
         <tr><td></td><td class="wan-td-right">
-				<button onclick="saveOwnerNetwork('2.4G')"><%:save%></button>
-            <i id="24-saveTip" class="hsSubLoading saving" style="display: none"></i>
-            <i id="24-saveTipSucess" class="hsSubLoading save-suc" style="display: none"></i>
+                <button onclick="showConfirmTip('2.4G')"><%:save%></button>
+                <i id="24-saveTip" class="hsSubLoading saving" style="display: none"></i>
+                <i id="24-saveTipSucess" class="hsSubLoading save-suc" style="display: none"></i>
         </td></tr>
     </table>
     <table class="tb-no-border" id="table-5G" style="display: none">
@@ -143,6 +143,10 @@ local wds_enable = wirelessnew.wds_is_enabled()
         </select></td></tr>
         <% end %>
 <tr><td class="wan-td-left"><%:channel%></td><td class="wan-td-right"> <select class="channel-5" onchange="channel165Dual(this,'table-5G')">
+<<<<<<< HEAD
+=======
+            <!--<option value="auto">自动</option>-->
+>>>>>>> upstream/master
             <option value="36">36</option>
             <option value="40">40</option>
             <option value="44">44</option>
@@ -179,9 +183,9 @@ local wds_enable = wirelessnew.wds_is_enabled()
 				<input class="apartheid-5" type="checkbox"> </td><td class="wan-td-right"><%:Open AP isolation%>
         </td></tr>
         <tr><td></td><td class="wan-td-right">
-				<button onclick="saveOwnerNetwork('5G')"><%:save%></button>
-            <i id="5-saveTip" class="hsSubLoading saving" style="display: none"></i>
-            <i id="5-saveTipSucess" class="hsSubLoading save-suc" style="display: none"></i>
+                <button onclick="showConfirmTip('5G')"><%:save%></button>
+                <i id="5-saveTip" class="hsSubLoading saving" style="display: none"></i>
+                <i id="5-saveTipSucess" class="hsSubLoading save-suc" style="display: none"></i>
         </td></tr>
     </table>
     <table class="tb-no-border" id="dual-table" style="display:none;">
@@ -261,9 +265,9 @@ local wds_enable = wirelessnew.wds_is_enabled()
 				<input class="apartheid-5" type="checkbox"> </td><td class="wan-td-right"><%:Open AP isolation%>
         </td></tr>
         <tr><td colspan="2"></td><td class="wan-td-right" colspan="2">
-				<button onclick="saveOwnerNetwork('dual')"><%:save%></button>
-            <i id="saveTip" class="hsSubLoading saving" style="display: none"></i>
-            <i id="saveTipSucess" class="hsSubLoading save-suc" style="display: none"></i>
+                <button onclick="showConfirmTip('dual')"><%:save%></button>
+                <i id="saveTip" class="hsSubLoading saving" style="display: none"></i>
+                <i id="saveTipSucess" class="hsSubLoading save-suc" style="display: none"></i>
         </td></tr>
     </table>
 	<legend><%:frequence intergration%></legend>
@@ -295,6 +299,14 @@ local wds_enable = wirelessnew.wds_is_enabled()
 				<li class="title"><%:Open AP isolation%></li>
 				<li class="content"><%:Open AP isolation help%></li>
     </ul></div></div>
+    <div id="isSureTip">
+        <div id="lanTip" class="hsTip">
+            <i class="altIcon"></i>
+            <span class="detail"><%:confirm to alter wifi%></span>
+            <input id="confirm" class="subBtn" value="<%:confirm%>" type="button" onclick="saveOwnerNetwork('2.4G')">
+            <input class="subBtn" value="<%:cancel%>" type="button" onclick="closeConfirmTip()">
+        </div>
+    </div>
 </fieldset>
 <%+footer%>
 <script>
@@ -375,8 +387,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                             if (result.ifaces[i].hwmode != '11g') {
                                 table.querySelector('.bandwidth').disabled = 'disabled';
                             }
+                            var mode_24g = table.querySelector('.mode');
                             if (result.ifaces[i].hwmode != undefined) {
-                                var mode_24g = table.querySelector('.mode');
                                 if (result.ifaces[i].hwmode == '11b') {
                                     mode_24g.selectedIndex = 2;
                                 } else if (result.ifaces[i].hwmode == '11g' && result.ifaces[i].htmode != undefined) {
@@ -386,8 +398,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                                     mode_24g.selectedIndex = 1;
                                 }
                             }
+                            var bandwidth_24g = table.querySelector('.bandwidth');
                             if (result.ifaces[i].htmode != undefined) {
-                                var bandwidth_24g = table.querySelector('.bandwidth');
                                 for (var j=0; j<bandwidth_24g.options.length; j++) {
                                     if (bandwidth_24g[j].value == result.ifaces[i].htmode) {
                                         bandwidth_24g.selectedIndex = j;
@@ -450,8 +462,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                                     }
                                 }
                             }
+                            var mode_5g = table.querySelector('.mode-5');
                             if (result.ifaces[i].hwmode != undefined) {
-                                var mode_5g = table.querySelector('.mode-5');
                                 for (var j=0; j<mode_5g.options.length; j++) {
                                     if (mode_5g[j].value == result.ifaces[i].hwmode) {
                                         mode_5g.selectedIndex = j;
@@ -459,8 +471,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                                     }
                                 }
                             }
+                            var bandwidth_5g = table.querySelector('.bandwidth-5');
                             if (result.ifaces[i].htmode != undefined) {
-                                var bandwidth_5g = table.querySelector('.bandwidth-5');
                                 for (var j=0; j<bandwidth_5g.options.length; j++) {
                                     if (bandwidth_5g[j].value == result.ifaces[i].htmode) {
                                         bandwidth_5g.selectedIndex = j;
@@ -496,6 +508,7 @@ local wds_enable = wirelessnew.wds_is_enabled()
 
     // router set interfaces
     function saveOwnerNetwork(wantype) {
+        closeConfirmTip();
         var ifaces_save = [];
         if (wantype == '2.4G') {
             var table = document.getElementById('table-24G');
@@ -533,6 +546,12 @@ local wds_enable = wirelessnew.wds_is_enabled()
                             return;
                         }else if (strlen(ifaces[i].key)>64) {
 							text.innerText = '<%:Password long long, please input again！%>';
+                            err.style.visibility = 'visible';
+                            errTipDoc = table.querySelector('.key');
+                            return;
+                        }
+                        if (ifaces[i].key != check(ifaces[i].key)) {
+                            text.innerText = '<%:password contain invalid character%>';
                             err.style.visibility = 'visible';
                             errTipDoc = table.querySelector('.key');
                             return;
@@ -608,6 +627,12 @@ local wds_enable = wirelessnew.wds_is_enabled()
                             errTipDoc = table.querySelector('.key-5');
                             return;
                         }
+                        if (ifaces[i].key != check(ifaces[i].key)) {
+                            text.innerText = '<%:password contain invalid character%>';
+                            err.style.visibility = 'visible';
+                            errTipDoc = table.querySelector('.key-5');
+                            return;
+                        }
                     }
                     ifaces[i].apartheid = table.querySelector('.apartheid-5').checked;
                     <% if country_enable then %>
@@ -673,6 +698,12 @@ local wds_enable = wirelessnew.wds_is_enabled()
                             return;
                         }else if (strlen(ifaces[i].key)>64) {
 							text.innerText = '<%:Password long long, please input again！%>';
+                            err.style.visibility = 'visible';
+                            errTipDoc = table.querySelector('.key-5');
+                            return;
+                        }
+                        if (ifaces[i].key != check(ifaces[i].key)) {
+                            text.innerText = '<%:password contain invalid character%>';
                             err.style.visibility = 'visible';
                             errTipDoc = table.querySelector('.key-5');
                             return;
@@ -1109,8 +1140,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                     if (result.ifaces[i].hwmode != '11g') {
                         table.querySelector('.bandwidth').disabled = 'disabled';
                     }
+                    var mode_24g = table.querySelector('.mode');
                     if (result.ifaces[i].hwmode != undefined) {
-                        var mode_24g = table.querySelector('.mode');
                         if (result.ifaces[i].hwmode == '11b') {
                             mode_24g.selectedIndex = 2;
                         } else if (result.ifaces[i].hwmode == '11g' && result.ifaces[i].htmode != undefined) {
@@ -1120,8 +1151,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                             mode_24g.selectedIndex = 1;
                         }
                     }
+                    var bandwidth_24g = table.querySelector('.bandwidth');
                     if (result.ifaces[i].htmode != undefined) {
-                        var bandwidth_24g = table.querySelector('.bandwidth');
                         for (var j=0; j<bandwidth_24g.options.length; j++) {
                             if (bandwidth_24g[j].value == result.ifaces[i].htmode) {
                                 bandwidth_24g.selectedIndex = j;
@@ -1172,8 +1203,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                             }
                         }
                     }
+                    var mode_5g = table.querySelector('.mode-5');
                     if (result.ifaces[i].hwmode != undefined) {
-                        var mode_5g = table.querySelector('.mode-5');
                         for (var j=0; j<mode_5g.options.length; j++) {
                             if (mode_5g[j].value == result.ifaces[i].hwmode) {
                                 mode_5g.selectedIndex = j;
@@ -1181,8 +1212,8 @@ local wds_enable = wirelessnew.wds_is_enabled()
                             }
                         }
                     }
+                    var bandwidth_5g = table.querySelector('.bandwidth-5');
                     if (result.ifaces[i].htmode != undefined) {
-                        var bandwidth_5g = table.querySelector('.bandwidth-5');
                         for (var j=0; j<bandwidth_5g.options.length; j++) {
                             if (bandwidth_5g[j].value == result.ifaces[i].htmode) {
                                 bandwidth_5g.selectedIndex = j;
@@ -1216,6 +1247,18 @@ local wds_enable = wirelessnew.wds_is_enabled()
         }
     }
 
+    function showConfirmTip(band){
+        document.getElementById('isSureTip').style.visibility = 'visible';
+        var confirmButton = document.getElementById('confirm');
+        confirmButton.onclick = function(){
+            saveOwnerNetwork(band);
+        };
+    }
+
+    function closeConfirmTip(){
+        document.getElementById('isSureTip').style.visibility = 'hidden';
+    }
+
 <% if country_enable then %>
     //band is use to diff 2.4G or 5G
     function setChannelOption(countrySelect,tableId,band){
@@ -1229,9 +1272,9 @@ local wds_enable = wirelessnew.wds_is_enabled()
             var channelList = get_channel5G_list(country);
         }
         channel.length = 0;
-        channel.options[0] = new Option('<%:auto%>','auto');
+        //channel.options[0] = new Option('<%:auto%>','auto');
         for (var i=0; i<channelList.length; i++) {
-            channel.options[i+1] = new Option(channelList[i],channelList[i]);
+            channel.options[i] = new Option(channelList[i],channelList[i]);
         }
         //TODO japan 2.4G channel can be 14 ,if mode is 11b only
     }
