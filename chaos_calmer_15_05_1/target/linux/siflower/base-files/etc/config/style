@@ -11,7 +11,7 @@ config setting 'font'
     option foot '#999'
 
 # title
-    option title '#00baff'
+    option title '#00aeff'
 
 # all button
     option button 'white'
@@ -23,10 +23,10 @@ config setting 'font'
     option help_text 'black'
 
 # table top toolbar
-    option ToolBar '#8c000a'
+    option ToolBar '#00aeff'
 
 # note tip notice
-    option note_tip '#fb6e52'
+    option note_tip '#00aeff'
 
 # common setting
 # for red background , use white text
@@ -49,11 +49,11 @@ config setting 'background'
     option input_disabled '#efefef'
 
 # for all button
-    option button '#00baff'
+    option button '#00aeff'
     option button_disabled 'darkgray'
 
 # top nav background
-    option header 'linear-gradient(#00baff,#017ac0)'
+    option header 'linear-gradient(#00aeff,#017ac0)'
 
 # at bottom background, technical support
     option foot '#dfdfdf'
@@ -62,7 +62,7 @@ config setting 'background'
     option left_nav '#353535'
 
 # help and wds div top background
-    option help_and_wds_Top '00baff'
+    option help_and_wds_Top '00aeff'
 
 # help inner background
     option Help 'white'
@@ -75,7 +75,7 @@ config setting 'background'
     option rightBg 'white'
 
 # for red background , use white text
-    option com_base '#00baff'
+    option com_base '#00aeff'
 
 # login table background
     option loginTable 'white'

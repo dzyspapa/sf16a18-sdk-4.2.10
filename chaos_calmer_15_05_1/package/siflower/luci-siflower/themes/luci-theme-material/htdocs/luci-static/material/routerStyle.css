@@ -371,7 +371,7 @@ ul.headFunc li label {
 }
 
 ul.gridToolBar li {
-	color: #d7000f;
+	color: #00aeff;
 	font-size: 12px;
 	margin-left: 15px;
 	cursor: pointer;
@@ -415,7 +415,7 @@ ul.gridToolBar {
 }
 
 ul.gridToolBar li {
-	color: #d7000f;
+	color: #00aeff;
 	font-size: 12px;
 	/*margin-left: 15px;*/
 	cursor: pointer;
@@ -489,7 +489,7 @@ ul.gridToolBar li.delAllUn span {
 .btn{
 	width:70px;
 	color:#fff;
-	background-color: #d7000f;
+	background-color: #00aeff;
 	border:0 none;height:28px;
 	line-height:16px!important;
 	cursor:pointer;
@@ -789,7 +789,7 @@ input.subBtn {
 	border: 0;
 	cursor: pointer;
 	vertical-align: middle;
-	background: #d7000f;
+	background: #00aeff;
 }
 .wizardTop input.wzdDetect {
 	width: 70px;
@@ -875,7 +875,7 @@ li.wizardTop {
 	text-align: left;
 	position: relative;
 	border-radius: 3px 3px 0 0;
-	background: #d7000f;
+	background: #00aeff;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 0 5px 0 rgba(0, 0, 0, .12);
 }
 li.wizardTopEnd {
@@ -908,7 +908,7 @@ li.wizardTop .NTRight {
 }
 li.wizardBomEnd {
 	height: auto;
-	background: #d7000f;
+	background: #00aeff;
 	text-align: center;
 	*margin-top: -4px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 0 5px 0 rgba(0, 0, 0, .12);
@@ -1877,7 +1877,7 @@ div.handleRelCon i#break{
 }
 
 div.handleRelCon span.state {
-	color: #df0007;
+	color: #00aeff;
 	font-size: 14px;
 	line-height: normal;
 	font-weight: bold;
@@ -1964,7 +1964,7 @@ fieldset .panel-title {
 	float: left;
 	width: 90%;
 	border-bottom: 0px solid #ebebeb;
-	color: #df0007;
+	color: #00aeff;
 }
 
 fieldset i.helpBtn {
@@ -2178,7 +2178,7 @@ div.pageListDiv {
 }
 div.pageListDiv span {
 	width: 17px;
-	color: #d7000f;
+	color: #00aeff;
 	font-size: 12px;
 	font-weight: bold;
 	float: left;
@@ -2526,7 +2526,7 @@ ul.gridLine {
 }
 
 ul.gridLine li.textCon {
-    border: #d7000f 1px solid;
+    border: #00aeff 1px solid;
     border-radius: 3px;
     background: #efefef;
     width: 180px;
@@ -2616,7 +2616,7 @@ i.coverLoading {
 	position: absolute
 }
 p.coverLoadNote {
-    color: #df0007;
+    color: #00aeff;
 	font-size: 12px;
 	margin: 115px 21px auto;
 	padding: 0 2px;
@@ -2711,7 +2711,7 @@ ul.help li.content {
 	margin-top: 2px;
 }
 ul.help li.warnning {
-	color: #fb6e52;
+	color: #00aeff;
 	margin-top: 10px;
 }
 
@@ -2928,11 +2928,11 @@ button:disabled{
 progress{
 	background: rgb(190, 190, 190) none repeat scroll 0% 0%;
 	border: 0px solid #fff;
-	color:#961a0c;
+	color:#00aeff;
 }
 .chlidValue{
 	height: 15px;
-	background: #df0007;
+	background: #00aeff;
 	width: 0%;
 }
 .pointDiv {
