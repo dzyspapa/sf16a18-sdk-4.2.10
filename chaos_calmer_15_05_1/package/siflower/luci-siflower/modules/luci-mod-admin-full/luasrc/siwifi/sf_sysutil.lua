@@ -615,9 +615,9 @@ function getImgtype()
 	local version = fs.readfile("/etc/openwrt_version")
 
 	if string.find(version,"master") then
-		return sysconfig.SF_OTA_DEV
-	else
 		return sysconfig.SF_OTA_REL
+	else
+		return sysconfig.SF_OTA_DEV
 	end
 
 end

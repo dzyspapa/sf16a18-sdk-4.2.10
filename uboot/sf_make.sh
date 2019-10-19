@@ -149,7 +149,7 @@ case $prj in
 		;;
 	86v)
 		DEFCONFIG="sfa18_"$ver"_86v"
-		[ -z $ddr2 ] && ddr2=em68b16cwqh
+		[ -z $ddr2 ] && ddr2=m14d5121632a
 		;;
 	rep)
 		DEFCONFIG="sfa18_"$ver"_rep"
@@ -167,12 +167,8 @@ case $prj in
 		;;
 	p10h)
 		DEFCONFIG="sfa18_"$ver"_p10h"
-<<<<<<< HEAD
 		[ -z $ddr2 ] && ddr2=em68b16cwqh
 		add_sfbl_flag rgmii=1
-=======
-		[ -z $ddr2 ] && ddr2=nt5tu32m16eg
->>>>>>> upstream/master
 		;;
 	a28)
 		DEFCONFIG="sfa28"
