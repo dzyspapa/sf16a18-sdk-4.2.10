@@ -113,8 +113,8 @@ detect_mac80211() {
 		else
 			dev_id="	option macaddr	$(cat /sys/class/ieee80211/${dev}/macaddress)"
 		fi
-		ssid=SiWiFi-`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`$ssidprefix
-		ssid_lease=SiWiFi-租赁-$ssidprefix`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`
+		ssid=siwifi-`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`$ssidprefix
+		ssid_lease=siwifi-租赁-$ssidprefix`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`
 		country=`cat sys/devices/factory-read/countryid`
 		if [ ! -n "$country" ]; then
 			country='CN'
