@@ -95,6 +95,7 @@ detect_mac80211() {
 			mode_band="a";
 			channel="161"
 			htmode="VHT80"
+			ssidprefix="-5G"
 			noscan="1"
 			band="5G"
 			htcodex="0"
@@ -113,8 +114,8 @@ detect_mac80211() {
 		else
 			dev_id="	option macaddr	$(cat /sys/class/ieee80211/${dev}/macaddress)"
 		fi
-		ssid=siwifi-`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`$ssidprefix
-		ssid_lease=siwifi-租赁-$ssidprefix`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`
+		ssid=X96Link-`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`$ssidprefix
+		ssid_lease=X96Link-租赁-$ssidprefix`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`
 		country=`cat sys/devices/factory-read/countryid`
 		if [ ! -n "$country" ]; then
 			country='CN'
