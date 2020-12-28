@@ -93,7 +93,7 @@ detect_mac80211() {
 		cap_5ghz=$(iw phy "$dev" info | grep -c "Band 2")
 		[ "$vht_cap" -gt 0 -a "$cap_5ghz" -gt 0 ] && {
 			mode_band="a";
-			channel="161"
+			channel="36"
 			htmode="VHT80"
 			ssidprefix="-5G"
 			noscan="1"
@@ -114,8 +114,8 @@ detect_mac80211() {
 		else
 			dev_id="	option macaddr	$(cat /sys/class/ieee80211/${dev}/macaddress)"
 		fi
-		ssid=X96Link-`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`$ssidprefix
-		ssid_lease=X96Link-租赁-$ssidprefix`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`
+		ssid=TK-R84K-`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`$ssidprefix
+		ssid_lease=TK-R84K-租赁-$ssidprefix`cat /sys/class/ieee80211/${dev}/macaddress | cut -c 13- | sed 's/://g'`
 		country=`cat sys/devices/factory-read/countryid`
 		if [ ! -n "$country" ]; then
 			country='CN'

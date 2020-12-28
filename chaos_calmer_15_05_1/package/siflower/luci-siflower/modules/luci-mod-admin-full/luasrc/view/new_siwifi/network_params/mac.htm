@@ -11,8 +11,8 @@
 		</div>
 	</div>
 	<table class="tb-no-border">
-		<tr><td class="mac-td-left"><input type="radio" name="mac" class="tb-rd" value="0" /></td><td class="mac-td-right"><%:Use the MAC address of the router%><span id="routermac"></span></td></tr>
-		<tr><td class="mac-td-left"><input type="radio" name="mac" class="tb-rd" value="1" /></td><td class="mac-td-right"><%:use the MAC address of the current managed PC%><span id="devicemac"></span></td></tr>
+			<tr><td class="mac-td-left"><input type="radio" name="mac" class="tb-rd" value="0" /></td><td class="mac-td-right"><div style="float: left;margin-left: 10px;"><%:Use the MAC address of the router%></div><span id="routermac"></span></td></tr>
+			<tr><td class="mac-td-left"><input type="radio" name="mac" class="tb-rd" value="1" /></td><td class="mac-td-right"><div style="float: left;margin-left: 10px;"><%:use the MAC address of the current managed PC%></div><span id="devicemac"></span></td></tr>
 		<tr><td class="mac-td-left"><input type="radio" name="mac" class="tb-rd" value="2" /></td><td class="mac-td-right"><span style="position: relative;*top: -10px;"><%:use custom MAC address%></span><input id="custommac" type="text" onkeyup="nStrLimit(this)" maxlength="17"></td></tr>
 		<tr><td></td><td class="wan-td-right">
 				<button onclick="setMac()"><%:save%></button>

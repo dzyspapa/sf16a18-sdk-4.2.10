@@ -1,0 +1,2387 @@
+msgid ""
+msgstr ""
+
+msgid "common"
+msgstr "عام"
+
+msgid "advanced"
+msgstr "متقدم"
+
+msgid "safty exit"
+msgstr "خروج الأمان"
+
+msgid "guide"
+msgstr "إرشادات"
+
+msgid "successfully set"
+msgstr "تم ضبطه بنجاح"
+
+msgid "confirm"
+msgstr "تأكيد"
+
+msgid "connected device number"
+msgstr "رقم الجهاز المتصل："
+
+msgid "management"
+msgstr "إدارة"
+
+msgid "internet connection"
+msgstr "اتصال الإنترنت："
+
+msgid "broadband dial-up"
+msgstr "طلب هاتفي عريض النطاق"
+
+msgid "static IP address"
+msgstr "عنوان آي بي ثابت"
+
+msgid "automatically get IP address"
+msgstr "الحصول على عنوان آي بي تلقائيًا"
+
+msgid "network setting"
+msgstr "إعداد الشبكة"
+
+msgid "SSID"
+msgstr "معرف مجموعة الخدمات"
+
+msgid "wireless settings"
+msgstr "الإعدادات اللاسلكية"
+
+msgid "connected device"
+msgstr "جهاز متصل"
+
+msgid "banned device"
+msgstr "جهاز محظور"
+
+msgid "automatic detection"
+msgstr "الكشف التلقائي"
+
+msgid "broadband account"
+msgstr "حساب النطاق العريض"
+
+msgid "broadband password"
+msgstr "كلمة مرور النطاق العريض"
+
+msgid "IP address"
+msgstr "عنوان آي بي"
+
+msgid "DNS server"
+msgstr "خادم نظام أسماء النطاقات"
+
+msgid "subnet mask"
+msgstr "قناع الشبكات الجزئية"
+
+msgid "gateway"
+msgstr "بوابة"
+
+msgid "preferred DNS server"
+msgstr "خادم نظام أسماء النطاقات المفضل"
+
+msgid "alternate DNS server"
+msgstr "خادم نظام أسماء النطاقات البديل"
+
+msgid "save"
+msgstr "حفظ"
+
+msgid "IP address format error"
+msgstr "خطأ تنسيق عنوان آي بي"
+
+msgid "Subnet mask is not valid"
+msgstr "قناع الشبكات الجزئية غير صالح"
+
+msgid "Gateway error"
+msgstr "خطأ في البوابة"
+
+msgid "Please input the correct preferred DNS server"
+msgstr "الرجاء إدخال خادم نظام أسماء النطاقات المفضل الصحيح"
+
+msgid "Please input the correct alternate DNS server"
+msgstr "الرجاء إدخال خادم نظام أسماء النطاقات البديل الصحيح"
+
+msgid "host network"
+msgstr "الشبكة المضيفة"
+
+msgid "Please input the SSID"
+msgstr "الرجاء إدخال معرف مجموعة الخدمات"
+
+msgid "wireless name cannot be all space"
+msgstr "لا يمكن أن يكون الاسم اللاسلكي كله مساحة"
+
+msgid "wireless password"
+msgstr "كلمة مرور لاسلكية："
+
+msgid "The password length error"
+msgstr "خطأ طول كلمة المرور"
+
+msgid "password contain invalid character"
+msgstr "كلمة المرور تحتوي على حرف غير صالح"
+
+msgid "password strength"
+msgstr "قوة كلمة المرو"
+
+msgid "weak"
+msgstr "ضعيف"
+
+msgid "Setting up，please wait a moment..."
+msgstr "الإعداد جار، الرجاء الانتظار لحظة ..."
+
+msgid "Setting failed!"
+msgstr "فشل الإعداد!"
+
+msgid "Please select your access method"
+msgstr "الرجاء تحديد طريقة الوصول الخاصة بك"
+
+msgid "Obtained from the old router"
+msgstr "تم الحصول عليها من جهاز التوجيه القديم"
+
+msgid "pppoe transplant intro"
+msgstr "مقدمة لنقل بروتوكول النقطة إلى النقطة عبر إيثرنت (PPPoE)"
+
+msgid "start obtain"
+msgstr "ابدأ الحصول"
+
+msgid "sync pppoe info from old router timeout"
+msgstr "مزامنة معلومات بروتوكول النقطة إلى النقطة عبر إيثرنت (PPPoE) من مهلة جهاز التوجيه القديم。"
+
+msgid "failed to get network configuration from old router"
+msgstr "فشل الحصول على تكوين الشبكة من جهاز التوجيه القديم。"
+
+msgid "skip the guide"
+msgstr "تخطي الدليل"
+
+msgid "automatically get IP address intro"
+msgstr "الحصول تلقائيًا على مقدمة عنوان آي بي"
+
+msgid "next"
+msgstr "التال"
+
+msgid "Password length error"
+msgstr "خطأ طول كلمة المرور"
+
+msgid "wireless password intro"
+msgstr "مقدمة كلمة المرور اللاسلكية"
+
+msgid "previous"
+msgstr "السابق"
+
+msgid "Welcome to sirouter"
+msgstr "مرحبًا بك في سيروتر"
+
+msgid "I have read and agreed"
+msgstr "لقد قرأت ووافقت"
+
+msgid "user license agreement"
+msgstr "اتفاقية ترخيص المستخدم"
+
+msgid "and"
+msgstr "و"
+
+msgid "statement about siflower smart routers and privacy"
+msgstr "بيان حول أجهزة التوجيه الذكية من سيفلاور والخصوصية"
+
+msgid "join"
+msgstr "انضمام"
+
+msgid "user experience improvement program"
+msgstr "برنامج تحسين تجربة المستخدم"
+
+msgid "/proto.htm"
+msgstr "/proto_zh.htm"
+
+msgid "/private.htm"
+msgstr "/private_zh.htm"
+
+msgid "/project.htm"
+msgstr "/project_zh.htm"
+
+msgid "Please encrypt your wireless network"
+msgstr "الرجاء تشفير شبكتك اللاسلكية"
+
+msgid "Do not encrypt"
+msgstr "لا تشفر"
+
+msgid "Make sure the account or password is empty"
+msgstr "تأكد من أن الحساب أو كلمة المرور فارغة"
+
+msgid "cancel"
+msgstr "إلغاء"
+
+msgid "diagnostic tools"
+msgstr "أدوات التشخيص"
+
+msgid "operate successfully"
+msgstr "تعمل بنجاح"
+
+msgid "diagnostic tools intro"
+msgstr "مقدمة أدوات التشخيص"
+
+msgid "parameter setting"
+msgstr "إعداد المعلمة"
+
+msgid "selection opeartion"
+msgstr "عملية الاختيار"
+
+msgid "IP address/domain name"
+msgstr "عنوان آي بي/ اسم النطاق"
+
+msgid "Ping packet amount"
+msgstr "مقدار حزمة بينج"
+
+msgid "Ping packet size"
+msgstr "حجم حزمة بينج"
+
+msgid "(4-1472)bytes"
+msgstr "(1472-4) بايت"
+
+msgid "Ping timeout"
+msgstr "مهلة بينج"
+
+msgid "Tracert hop count"
+msgstr "عدد الوصلات المباشرة لمسار التتبع"
+
+msgid "diagnostic results"
+msgstr "نتائج التشخيص"
+
+msgid "start"
+msgstr "ابدأ"
+
+msgid "over"
+msgstr "انتهى"
+
+msgid "backup"
+msgstr "نسخ احتياطي"
+
+msgid "import successfully"
+msgstr "تم الاستيراد بنجاح"
+
+msgid "export button intro"
+msgstr "مقدمة زر التصدير"
+
+msgid "Export the configuration"
+msgstr "تصدير التكوين"
+
+msgid "Import the configuration"
+msgstr "استيراد التكوين"
+
+msgid "import"
+msgstr "استيراد"
+
+msgid "import the configuration intro"
+msgstr "استيراد مقدمة التكوين"
+
+msgid "browser"
+msgstr "متصفح"
+
+msgid "note"
+msgstr "ملاحظة"
+
+msgid "backup note1"
+msgstr "مذكرة احتياطية 1 "
+
+msgid "backup note2"
+msgstr "مذكرة احتياطية 2   "
+
+msgid "backup note3"
+msgstr " مذكرة احتياطية 3"
+
+msgid "Configuration is underway"
+msgstr "التكوين جار"
+
+msgid "Select the load profile first"
+msgstr "حدد ملف تعريف التحميل أولاً"
+
+msgid "Configuration file type illegal"
+msgstr "نوع ملف التكوين غير قانوني"
+
+msgid "Connection to router failed!"
+msgstr "فشل الاتصال بالموجه!"
+
+msgid "modify password"
+msgstr "تعديل كلمة المرور"
+
+msgid "Two password input inconsistent!"
+msgstr "إدخالان لكلمة المرور غير متسقين"
+
+msgid "original password"
+msgstr "كلمة المرور الأصلية"
+
+msgid "new password"
+msgstr "كلمة مرور جديدة"
+
+msgid "confirm new password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+msgid "The original password cannot be empty"
+msgstr "لا يمكن أن تكون كلمة المرور الأصلية فارغة"
+
+msgid "New password length error"
+msgstr "خطأ طول كلمة المرور الجديدة"
+
+msgid "Setting failed, please check the original password !"
+msgstr "فشل الإعداد، يرجى التحقق من كلمة المرور الأصلية!"
+
+msgid "reboot"
+msgstr "إعادة التشغيل"
+
+msgid "Are you sure you want to reboot the router?"
+msgstr "هل أنت متأكد أنك تريد إعادة تشغيل جهاز التوجيه؟"
+
+msgid "Please confirm to upgarde the router"
+msgstr "الرجاء تأكيد ترقية جهاز التوجيه"
+
+msgid "Reset is underway, please wait..."
+msgstr "إعادة الضبط جارية، يرجى الانتظار ..."
+
+msgid "buzzer"
+msgstr "الجرس"
+
+msgid "enabled"
+msgstr "تم التمكين"
+
+msgid "The request to restart failed, please try again"
+msgstr "فشل طلب إعادة التشغيل، يرجى المحاولة مرة أخرى"
+
+msgid "The switch setting failed. Please try again!"
+msgstr "!فشل إعداد التبديل. يرجى المحاولة مرة أخرى"
+
+msgid "Failed to get the initial state of the buzzer"
+msgstr "فشل الحصول على الحالة الأولية للجرس"
+
+msgid "factory reset"
+msgstr "إعادة ضبط المصنع"
+
+msgid "factory reset confirm"
+msgstr "تأكيد إعادة ضبط المصنع"
+
+msgid "factory reset button"
+msgstr "زر إعادة ضبط المصنع"
+
+msgid "It's recovering. Please wait..."
+msgstr "...يتم الاسترداد. يرجى الانتظار "
+
+msgid "The request to restore factory Settings failed. Please try again"
+msgstr "فشل طلب استعادة إعدادات المصنع. يرجى المحاولة مرة أخرى"
+
+msgid "software upgrading"
+msgstr "رقية البرامج"
+
+msgid "Failed to get data, please try again"
+msgstr "فشل الحصول على البيانات، يرجى المحاولة مرة أخر"
+
+msgid "upgrade intro"
+msgstr "ترقية مقدمة"
+
+msgid "whether or not"
+msgstr "سواء أم ل"
+
+msgid "current hardware version"
+msgstr "إصدار الجهاز الحالي："
+
+msgid "current software version"
+msgstr "إصدار البرنامج الحالي："
+
+msgid "OTA online upgrade"
+msgstr "ترقية عبر الإنترنت عبر البث الهوائي"
+
+msgid "Upgrade is in progress"
+msgstr "الترقية قيد التقدم"
+
+msgid "Please select upgrade image first!"
+msgstr "الرجاء تحديد صورة الترقية أولاً!"
+
+msgid "Image file type illegal"
+msgstr "نوع ملف الصورة غير قانوني"
+
+msgid "Upgrade failed!"
+msgstr "!فشلت الترقية"
+
+msgid "Error downloading image"
+msgstr "خطأ في تنزيل الصورة"
+
+msgid "OTA file download error"
+msgstr "خطأ في تنزيل ملف عبر البث الهوائي"
+
+msgid "It is the latest version"
+msgstr "إنه أحدث إصدار"
+
+msgid "system log"
+msgstr "سجل النظام"
+
+msgid "Sure to clear all logs?"
+msgstr "هل أنت متأكد من محو كل السجلات؟"
+
+msgid "refresh"
+msgstr "تحديث"
+
+msgid "save all logs"
+msgstr "احفظ كل السجلات"
+
+msgid "clear"
+msgstr "مسح"
+
+msgid "index"
+msgstr "الفهرس"
+
+msgid "log type"
+msgstr "نوع السجل"
+
+msgid "content"
+msgstr "محتوى"
+
+msgid "Data clearance failed!"
+msgstr "!فشل تصفية البيانات"
+
+msgid "time setting"
+msgstr "ضبط الوقت"
+
+msgid "time zone"
+msgstr "المنطقة الزمنية"
+
+msgid "date"
+msgstr "التاريخ"
+
+msgid "time"
+msgstr "الوقت"
+
+msgid "Save failed"
+msgstr "فشل الحفظ"
+
+msgid "DHCP server"
+msgstr "(DHCP)خادم بروتوكول التهيئة الآلية للمضيفين "
+
+msgid "Invalid input! Please refer to the correct format:"
+msgstr "إدخال غير صالح! يرجى الرجوع إلى التنسيق الصحيح:"
+
+msgid "XXX.XXX.XXX.XXX,X is the number of 0~9"
+msgstr "هو رقم من 0 إلى 9 XXX.XXX.XXX.XXX "
+
+msgid "address pool start address"
+msgstr "عنوان بدء تجمع العناوين"
+
+msgid "address pool end address"
+msgstr "عنوان نهاية تجمع العناوين"
+
+msgid "address of the lease"
+msgstr "عنوان الإيجار"
+
+msgid "hour intro"
+msgstr "مقدمة الساعة）"
+
+msgid "DHCP device"
+msgstr "(DHCP)جهاز بروتوكول التهيئة الآلية للمضيفين "
+
+msgid "help"
+msgstr "مساعدة"
+
+msgid "DHCP server help"
+msgstr "(DHCP)تعليمات خادم بروتوكول التهيئة الآلية للمضيفين "
+
+msgid "Address pool start/end address"
+msgstr "عنوان بداية / نهاية تجمع العناوين"
+
+msgid "Address pool start/end address intro"
+msgstr "مقدمة عنوان بداية / نهاية تجمع العناوين"
+
+msgid "address of the lease intro"
+msgstr "عنوان مقدمة الإيجار"
+
+msgid "gateway intro"
+msgstr "مدخل البوابة"
+
+msgid "DNS server intro"
+msgstr "مقدمة خادم نظام أسماء النطاقات"
+
+msgid "fail to get"
+msgstr "فشل في الحصول عليه"
+
+msgid "host"
+msgstr "مضيف"
+
+msgid "effective time"
+msgstr "الوقت الفعلي"
+
+msgid "refresh failed"
+msgstr "فشل التحديث"
+
+msgid "Illegal address pool"
+msgstr "تجمع العناوين غير القانوني"
+
+msgid "Unreasonable gateway"
+msgstr "بوابة غير معقولة"
+
+msgid "Wrong preferred DNS address"
+msgstr "عنوان نظام اسماء النطاقات المفضل غير صحيح"
+
+msgid "Wrong DNS address"
+msgstr "عنوان نظام اسماء النطاقات خاطئ"
+
+msgid "The address lease term is 1-24"
+msgstr "مدة تأجير العنوان هي 1-24"
+
+msgid "IP and MAC mapping table"
+msgstr "جدول تعيين آي بي وعنوان التحكم بالنفاذ للوسط"
+
+msgid "IP and MAC bound"
+msgstr "ربط آي بي وعنوان التحكم بالنفاذ للوسط"
+
+msgid "add"
+msgstr "إضافة"
+
+msgid "delete all"
+msgstr "حذف الكل"
+
+msgid "delete the selected"
+msgstr "حذف المحدد"
+
+msgid "IP and MAC binding help"
+msgstr "تعليمات ربط آي بي وعنوان التحكم بالنفاذ للوسط"
+
+msgid "For example"
+msgstr "على سبيل المثال"
+
+msgid "For example intro"
+msgstr " مقدمة على ’على سبيل المثال"
+
+msgid "MAC address"
+msgstr "عنوان التحكم بالنفاذ للوسط"
+
+msgid "Zhangsan"
+msgstr "زانغسان"
+
+msgid "edit"
+msgstr "تحرير"
+
+msgid "Failed to get binding information"
+msgstr "فشل الحصول على معلومات الربط"
+
+msgid "status"
+msgstr "الحالة"
+
+msgid "Add to bound Settings"
+msgstr "إضافة إلى الإعدادات المرتبطة"
+
+msgid "Anonymous host"
+msgstr "مضيف مجهول"
+
+msgid "Is binding"
+msgstr "ملزم"
+
+msgid "unbound"
+msgstr "غير منضم"
+
+msgid "Refresh failed!"
+msgstr "!فشل التحديث"
+
+msgid "IP address in WAN segment and LAN segment and visitor network network, please input again！"
+msgstr "！عنوان آي بي في قطاع الشبكة الواسعة و قطاع الشبكة المحلية وشبكة الزائرين ، يرجى الإدخال مرة أخرى"
+
+msgid "Add binding failed!"
+msgstr "!فشل إضافة الربط"
+
+msgid "Deletion successfully！"
+msgstr "!تم الحذف بنجاح"
+
+msgid "Deletion failed!"
+msgstr "!فشل الحذف"
+
+msgid "MAC address format incorrect"
+msgstr "تنسيق عنوان التحكم بالنفاذ للوسط  غير صحيح"
+
+msgid "MAC address cannot be broadcast address here!"
+msgstr "!لا يمكن بث عنوان التحكم بالنفاذ للوسط  هنا"
+
+msgid "MAC address cannot be multicast address here!"
+msgstr "!لا يمكن تعدد إرسال عنوان التحكم بالنفاذ للوسط  هنا"
+
+msgid "IP address format error, please input again"
+msgstr "خطأ في تنسيق عنوان آي بي، يرجى الإدخال مرة أخرى"
+
+msgid "The IP address has been occupied"
+msgstr "تم احتلال عنوان آي بي"
+
+msgid "The MAC address has been occupied"
+msgstr "تم احتلال عنوان التحكم بالنفاذ للوسط"
+
+msgid "Modification failed!"
+msgstr "!فشل التعديل"
+
+msgid "LAN setting"
+msgstr "(LAN)إعداد الشبكة الواسعة"
+
+msgid "LAN IP setting"
+msgstr "إعداد آي بي للشبكة الواسعة"
+
+msgid "auto（recommendation）"
+msgstr "تلقائية (توصية)"
+
+msgid "manual"
+msgstr "يدوي"
+
+msgid "MAC address setting"
+msgstr "إعداد عنوان التحكم بالنفاذ للوسط"
+
+msgid "Use the router to the LAN's MAC address"
+msgstr "استخدام جهاز التوجيه لعنوان التحكم بالنفاذ للوسط  الخاص بشبكة الاتصال المحلية"
+
+msgid "LAN port IP setup"
+msgstr "إعداد آي بي لمنفذ الشبكة المحلية"
+
+msgid "Support automatic and manual Settings"
+msgstr "دعم الإعدادات التلقائية واليدوية"
+
+msgid "LAN help 1"
+msgstr "مساعدة الشبكة المحلية 1"
+
+msgid "LAN help 2"
+msgstr "مساعدة الشبكة المحلية 2"
+
+msgid "LAN help 3"
+msgstr "مساعدة الشبكة المحلية 3"
+
+msgid "LAN help 4"
+msgstr "مساعدة الشبكة المحلية 4"
+
+msgid "LAN help 5"
+msgstr "مساعدة الشبكة المحلية 5"
+
+msgid "IP address of the router to the LAN."
+msgstr "عنوان آي بي الخاص بالموجه إلى الشبكة المحلية"
+
+msgid "Router to LAN subnet mask"
+msgstr "قناع الشبكات الجزئية من الموجه إلى الشبكة المحلية"
+
+msgid "Just a moment, please..."
+msgstr "...لحظة، من فضلك "
+
+msgid "LAN set confirm"
+msgstr "تأكيد مجموعة الشبكة المحلية"
+
+msgid "alter need input address confirm"
+msgstr "التغيير بحاجة إلى تأكيد عنوان الإدخال"
+
+msgid "The network segment of IP address is illegal"
+msgstr "مقطع الشبكة لعنوان آي بي غير قانوني"
+
+msgid "Invalid input, setting failed!"
+msgstr "!إدخال غير صالح، فشل الإعداد"
+
+msgid "Use the MAC address of the router"
+msgstr "استخدم عنوان التحكم بالنفاذ للوسط  الخاص بالموجه"
+
+msgid "use the MAC address of the current managed PC"
+msgstr "استخدم عنوان التحكم بالنفاذ للوسط  الخاص بجهاز الكمبيوتر المدار حاليًا"
+
+msgid "use custom MAC address"
+msgstr "استخدام عنوان التحكم بالنفاذ للوسط  المخصص "
+
+msgid "MAC help"
+msgstr "مساعدة عنوان التحكم بالنفاذ للوسط"
+
+msgid "Failed to set MAC address"
+msgstr "فشل تعيين عنوان التحكم بالنفاذ للوسط"
+
+msgid "wan connection type"
+msgstr "نوع اتصال النطاق الواسع"
+
+msgid "Packet MTUbyte"
+msgstr " وحدة الإرسال القصوى للحزمة بايت"
+
+msgid "auto negotiation"
+msgstr "تفاوض تلقائي"
+
+msgid "10M full duplex"
+msgstr "ازدواج كامل 10م"
+
+msgid "10M half duplex"
+msgstr "نصف مزدوج 10م"
+
+msgid "break"
+msgstr "انقطاع"
+
+msgid "connect"
+msgstr "اتصال"
+
+msgid "Connection mode"
+msgstr "وضع الاتصا"
+
+msgid "Connect on demand"
+msgstr "الاتصال عند الطلب"
+
+msgid "Automatic connection"
+msgstr "اتصال تلقائي"
+
+msgid "Manual connection by user"
+msgstr "اتصال يدوي بواسطة المستخدم"
+
+msgid "Automatic wire break waiting time"
+msgstr "وقت انتظار انقطاع الأسلاك التلقائي"
+
+msgid "minute0 means no automatic break"
+msgstr "  دقيقة يعني عدم وجود انقطاع تلقائي 0 "
+
+msgid "Broadband dial-up advanced setup"
+msgstr "الإعداد المتقدم للطلب الهاتفي واسع النطاق"
+
+msgid "default is 1500, please do not modify if not necessary"
+msgstr "الافتراضي هو 1500، يرجى عدم التعديل إذا لم يكن ضروريًا"
+
+msgid "default is 1480, please do not modify if not necessary"
+msgstr "الافتراضي هو 1480، يرجى عدم التعديل إذا لم يكن ضروريًا"
+
+msgid "service name"
+msgstr "اسم الخدمة"
+
+msgid "server name"
+msgstr "اسم الخادم"
+
+msgid "Use the IP address specified by the operator"
+msgstr "استخدام عنوان آي بي الذي حدده المشغل"
+
+msgid "IP address designated by the operator"
+msgstr "عنوان آي بي المعين من قبل المشغل"
+
+msgid "Manually set the DNS server"
+msgstr "تعيين خادم نظام أسماء النطاقات يدويًا"
+
+msgid "optional"
+msgstr "اختياري"
+
+msgid "update"
+msgstr "تحديث"
+
+msgid "release"
+msgstr "إطلاق"
+
+msgid "host name"
+msgstr "اسم المضيف"
+
+msgid "Get IP by unicast generally not selected"
+msgstr "الحصول على آي بي عن طريق الإرسال الأحادي غير محدد بشكل عام"
+
+msgid "WAN port speed setting"
+msgstr "إعداد سرعة منفذ الشبكة الواسعة"
+
+msgid "WAN connection type intro"
+msgstr "مقدمة نوع اتصال الشبكة الواسعة"
+
+msgid "using temporary IP"
+msgstr "استخدام آي بي المؤقت"
+
+msgid "IP address, subnet mask, gateway"
+msgstr "عنوان آي بي و قناع الشبكات الجزئية و البوابة"
+
+msgid "Operator dynamic allocation of network parameters"
+msgstr "تخصيص عامل التشغيل الديناميكي لمعلمات الشبكة"
+
+msgid "Packet MTU"
+msgstr "وحدة الإرسال القصوى للحزمة"
+
+msgid "Packet maximum transmission unit"
+msgstr "وحدة الإرسال القصوى للحزمة"
+
+msgid "Packet maximum transmission unit for pppoe"
+msgstr " (PPPoE)وحدة الإرسال القصوى للحزمة لبروتوكول النقطة إلى النقطة عبر إيثرنت "
+
+msgid "Manually set the DNS server in dhcp"
+msgstr "(DHCP)اضبط خادم نظام أسماء النطاقات يدويًا في بروتوكول التهيئة الآلية للمضيفين "
+
+msgid "Get IP by unicast"
+msgstr "الحصول على آي بي بواسطة أحادي الإرسال"
+
+msgid "Get IP by unicast intro"
+msgstr "الحصول على آي بي بواسطة مقدمة أحادية الإرسال"
+
+msgid "WAN port speed setting intro"
+msgstr "مقدمة إعداد سرعة منفذ الشبكة الواسعة"
+
+msgid "Service name/server name"
+msgstr "اسم الخدمة/ اسم الخادم"
+
+msgid "Service name/server name intro"
+msgstr "مقدمة اسم الخدمة/ اسم الخادم"
+
+msgid "Use operators to specify IP addresses"
+msgstr "استخدام عوامل التشغيل لتحديد عناوين آي بي"
+
+msgid "specifies IP address intro"
+msgstr "تحدد مقدمة عنوان آي بي"
+
+msgid "Manually set the DNS server in pppoe"
+msgstr "(PPPoE)تعيين خادم نظام أسماء النطاقات يدويًا في بروتوكول النقطة إلى النقطة عبر إيثرنت "
+
+msgid "Please wait for the detect"
+msgstr "يرجى انتظار الكشف"
+
+msgid "connected"
+msgstr "متصل"
+
+msgid "disconnected"
+msgstr "غير متصل"
+
+msgid "disconnected unplugged port of WAN"
+msgstr "منفذ الشبطة الواسعة غير متصل و غير مدرج في القابس"
+
+msgid "Failed to get data!"
+msgstr "!فشل الحصول على البيانات"
+
+msgid "Invalid MTU, MTU should between 46 and 9000"
+msgstr "وحدة الإرسال القصوى غير صالح ، يجب أن تتراوح وحدة الإرسال القصوى بين 46 و 9000  "
+
+msgid "Invalid MTU, MTU should between 46 and 8992"
+msgstr "وحدة الإرسال القصوى غير صالح، يجب أن تتراوح وحدة الإرسال القصوى بين 46 و 8992"
+
+msgid "MTU can not be empty"
+msgstr "لا يمكن أن تكون وحدة الإرسال القصوى فارغة"
+
+msgid "host name error"
+msgstr "خطأ اسم المضيف"
+
+msgid "preferred DNS server address error"
+msgstr "خطأ عنوان خادم نظام أسماء النطاقات المفضل"
+
+msgid "IP address error, please input again"
+msgstr "خطأ في عنوان آي بي، يرجى الإدخال مرة أخرى"
+
+msgid "Connection failed"
+msgstr "فشل الاتصا"
+
+msgid "Connect timeout"
+msgstr "مهلة الاتصال"
+
+msgid "Save data failed"
+msgstr "فشل حفظ البيانات"
+
+msgid "The IP address is invalid. Please input again"
+msgstr "عنوان آي بي غير صالح. الرجاء الإدخال مرة أخرى"
+
+msgid "Network segment and LAN interface IP address conflict"
+msgstr "تعارض مقطع الشبكة وعنوان آي بي لواجهة الشبكة المحلية"
+
+msgid "Operator address error, please input again"
+msgstr "خطأ في عنوان المشغل، يرجى الإدخال مرة أخرى"
+
+msgid "Connecting..."
+msgstr "...الاتصال جار"
+
+msgid "Update failed!"
+msgstr "!فشل التحديث"
+
+msgid "Disconnecting..."
+msgstr "...قطع الاتصال جار "
+
+msgid "Release failed!"
+msgstr "!فشل الإطلاق"
+
+msgid "Disconnected unplugged port of WAN"
+msgstr "منفذ الشبكة الواسعة غير متصل و غير مدرج بالقابس"
+
+msgid "WAN port is not connected"
+msgstr "منفذ الشبكة الواسعة غير متصل"
+
+msgid "Long account length"
+msgstr "طول الحساب الطويل"
+
+msgid "Long password length"
+msgstr "طول كلمة المرور الطويلة"
+
+msgid "Successful connection!"
+msgstr "!اتصال ناجح"
+
+msgid "Automatic wire break waiting time input error"
+msgstr "خطأ في إدخال وقت انتظار انقطاع الأسلاك التلقائي!"
+
+msgid "Save successfully"
+msgstr "حفظ بنجاح"
+
+msgid "Disconnected not connected"
+msgstr "غير متصل و لم يتم الاتصال"
+
+msgid "peanut shell dynamic domain name"
+msgstr "اسم النطاق الديناميكي من بينيت شيل"
+
+msgid "service provider"
+msgstr "مزود الخدمة"
+
+msgid "username"
+msgstr "اسم المستخدم"
+
+msgid "password"
+msgstr "كلمة المرور"
+
+msgid "auto login"
+msgstr "تسجيل الدخول التلقائي"
+
+msgid "domian name information"
+msgstr "معلومات اسم النطاق"
+
+msgid "login"
+msgstr "تسجيل الدخول"
+
+msgid "exit"
+msgstr "خروج"
+
+msgid "DDNS help"
+msgstr "مساعدة نظام أسماء النطاقات الديناميكي"
+
+msgid "Service provider"
+msgstr "مقدم الخدمة"
+
+msgid "The DDNS service provider of this router"
+msgstr "مزود خدمة نظام أسماء النطاقات لجهاز التوجيه هذا"
+
+msgid "User name/password"
+msgstr "اسم المستخدم/ كلمة المرور"
+
+msgid "User name/password registered on the DDNS server address."
+msgstr "اسم المستخدم/ كلمة المرور المُسجَّلة على عنوان خادم نظام أسماء النطاقات الديناميكي."
+
+msgid "Connection status"
+msgstr "حالة الاتصال"
+
+msgid "Connection status with the DDNS server"
+msgstr "حالة الاتصال بخادم نظام أسماء النطاقات الديناميك"
+
+msgid "Service type"
+msgstr "نوع الخدمة"
+
+msgid "Current service type of DDNS"
+msgstr "نوع الخدمة الحالية لنظام أسماء النطاقات الديناميكي "
+
+msgid "Domain information"
+msgstr "معلومات النطاق"
+
+msgid "List of domain name services obtained from the DDNS server"
+msgstr "قائمة خدمات اسم النطاق التي تم الحصول عليها من خادم نظام أسماء النطاقات الديناميكي"
+
+msgid "DDNS help note"
+msgstr "ملاحظة مساعدة نظام أسماء النطاقات الديناميك"
+
+msgid "save setting successfully"
+msgstr "حفظ الإعداد بنجاح"
+
+msgid "The length of the account is not less than 2!"
+msgstr "!طول الحساب لا يقل عن 2"
+
+msgid "Password length not less than 8!"
+msgstr "!طول كلمة المرور لا يقل عن 8"
+
+msgid "operation failure"
+msgstr "فشل العملية"
+
+msgid "DMZ host"
+msgstr "مضيف منطقة منزوعة الصلاح"
+
+msgid "DMZ host address"
+msgstr "عنوان مضيف منطقة منزوعة الصلاح"
+
+msgid "DMZ help"
+msgstr "مساعدة منطقة منزوعة الصلاح"
+
+msgid "DMZ help for example"
+msgstr "مساعدة منطقة منزوعة الصلاح على سبيل المثال"
+
+msgid "ip is not in the lan segment"
+msgstr "ي بي ليس في مقطع الشبكة الواسعة"
+
+msgid "static route setup"
+msgstr "إعداد المسار الثابت"
+
+msgid "Delete all"
+msgstr "حذف الكل"
+
+msgid "Delete Selected"
+msgstr "حذف المحدد"
+
+msgid "system routing table"
+msgstr "جدول توجيه النظام"
+
+msgid "routing function help"
+msgstr "مساعدة وظيفة التوجيه"
+
+msgid "destination net address"
+msgstr "عنوان شبكة الوجهة"
+
+msgid "The address the packet needs to arrive at"
+msgstr "العنوان الذي يجب أن تصل إليه الحزمة"
+
+msgid "Subnet mask of destination address"
+msgstr "قناع الشبكات الجزئية لعنوان الوجهة"
+
+msgid "next hop address"
+msgstr "عنوان الوصلة المباشرة التالية"
+
+msgid "next router address help"
+msgstr "تعليمات عنوان جهاز التوجيه التالي"
+
+msgid "interface"
+msgstr "واجهة"
+
+msgid "Failed to refresh data"
+msgstr "فشل تحديث البيانات"
+
+msgid "already in the system routing table"
+msgstr "موجود بالفعل في جدول توجيه النظام"
+
+msgid "Destination network address is not valid"
+msgstr "عنوان شبكة الوجهة غير صالح"
+
+msgid "Next hop address error"
+msgstr "خطأ عنوان الوصلة المباشرة التالية"
+
+msgid "delete successfully"
+msgstr "حذف بنجاح"
+
+msgid "delete failed"
+msgstr "فشل الحذف"
+
+msgid "modify successfully"
+msgstr "تعديل بنجاح"
+
+msgid "UPnP setting"
+msgstr "(UPnP)إعداد التوصيل و التشغيل العالمي "
+
+msgid "UPnP help"
+msgstr "(UPnP)مساعدة التوصيل و التشغيل العالمي "
+
+msgid "Description of the application included in the UPnP request"
+msgstr "(UPnP)وصف التطبيق المضمن في طلب التوصيل و التشغيل العالمي "
+
+msgid "external port"
+msgstr "منفذ خارجي"
+
+msgid "An external port that the router opens for the application"
+msgstr "منفذ خارجي يفتحه جهاز التوجيه للتطبيق"
+
+msgid "protocol type"
+msgstr "نوع البروتوكول"
+
+msgid "The type of protocol opened"
+msgstr "نوع البروتوكول المفتوح"
+
+msgid "internal port"
+msgstr "منفذ داخلي"
+
+msgid "An internal port that the router opens for the local host"
+msgstr "منفذ داخلي يفتحه جهاز التوجيه للمضيف المحلي"
+
+msgid "The IP address of the local host contained in the UPnP request"
+msgstr "(UPnP)عنوان آي بي الخاص بالمضيف المحلي الموجود في طلب التوصيل و التشغيل العالمي "
+
+msgid "Indicates whether the port is enabled."
+msgstr "يشير إلى ما إذا كان المنفذ ممكّنًا."
+
+msgid "UPnP help note"
+msgstr "(UPnP)ملاحظة مساعدة التوصيل و التشغيل العالمي "
+
+msgid "APP description"
+msgstr "بيان التطبيق"
+
+msgid "disabled"
+msgstr "معطل"
+
+msgid "virtual server"
+msgstr "الخادم الافتراضي"
+
+msgid "virtual server help"
+msgstr "مساعدة الخادم الافتراضي"
+
+msgid "common server"
+msgstr "الخادم المشترك"
+
+msgid "common server help"
+msgstr "مساعدة الخادم المشترك"
+
+msgid "external port help"
+msgstr "مساعدة المنفذ الخارجي"
+
+msgid "internal port help"
+msgstr "مساعدة المنفذ الداخلي"
+
+msgid "IP address help"
+msgstr "تعليمات عنوان آي بي"
+
+msgid "protocol"
+msgstr "بروتوكول"
+
+msgid "The protocol used by the server"
+msgstr "البروتوكول المستخدم من قبل الخادم"
+
+msgid "vs help for example"
+msgstr "مقابل المساعدة على سبيل المثال"
+
+msgid "vs help note"
+msgstr "مقابل ملاحظة المساعدة"
+
+msgid "Failed to get information"
+msgstr "فشل الحصول على المعلومات"
+
+msgid "Please enter the correct external port"
+msgstr "الرجاء إدخال المنفذ الخارجي الصحيح"
+
+msgid "Please enter the correct internal port"
+msgstr "الرجاء إدخال المنفذ الداخلي الصحيح"
+
+msgid "Please enter password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+msgid "No encryption"
+msgstr "لا يوجد تشفير"
+
+msgid "country and region"
+msgstr "البلد والمنطقة"
+
+msgid "United States"
+msgstr "الولايات المتحدة"
+
+msgid "Canada"
+msgstr "كندا"
+
+msgid "Europe"
+msgstr "أوروبا"
+
+msgid "Switzerland"
+msgstr "سويسرا"
+
+msgid "Russia"
+msgstr "روسيا"
+
+msgid "Japan"
+msgstr "اليابان"
+
+msgid "India"
+msgstr "الهند"
+
+msgid "Singapore"
+msgstr "سنغافورة"
+
+msgid "China"
+msgstr "الصين"
+
+msgid "Israel"
+msgstr "إسرائيل"
+
+msgid "North Korea"
+msgstr "كوريا الشمالية"
+
+msgid "South Korea"
+msgstr "كوريا الجنوبية"
+
+msgid "Turkey"
+msgstr "تركيا"
+
+msgid "Australia"
+msgstr "أستراليا"
+
+msgid "South Africa"
+msgstr "جنوب إفريقيا"
+
+msgid "Brazil"
+msgstr "البرازيل"
+
+msgid "Taiwan"
+msgstr "تايوان"
+
+msgid "New Zealand"
+msgstr "نيوزيلندا"
+
+msgid "channel"
+msgstr "قناة"
+
+msgid "Turn on wireless radio"
+msgstr "تشغيل الراديو اللاسلكي"
+
+msgid "auto"
+msgstr "تلقائي"
+
+msgid "model"
+msgstr "نموذج"
+
+msgid "Spectrum bandwidth"
+msgstr "عرض النطاق الترددي الطيفي"
+
+msgid "Signal strength"
+msgstr "قوة الإشارة"
+
+msgid "low"
+msgstr "منخفض"
+
+msgid "middle"
+msgstr "متوسط"
+
+msgid "high"
+msgstr "مرتفع"
+
+msgid "Open AP isolation"
+msgstr "فتح عزل نقطة الاتصال"
+
+msgid "The wireless wi-fi name of the router"
+msgstr "سم شبكة واي فاي اللاسلكية لجهاز التوجيه"
+
+msgid "wireless password help"
+msgstr "مساعدة كلمة المرور اللاسلكية"
+
+msgid "channel help"
+msgstr "مساعدة القناة"
+
+msgid "Wireless mode in which the router works"
+msgstr "الوضع اللاسلكي الذي يعمل فيه جهاز التوجيه"
+
+msgid "The bandwidth of the wireless data transmitted"
+msgstr "عرض النطاق الترددي للبيانات اللاسلكية المرسلة"
+
+msgid "Signal strength help"
+msgstr "مساعدة قوة الإشارة"
+
+msgid "Open AP isolation help"
+msgstr "فتح مساعدة عزل نقطة الاتصال"
+
+msgid "the length of the SSID is too long！"
+msgstr "طول معرف مجموعة الخدمات طويل جدًا"
+
+msgid "No more than 10 Chinese characters in wireless name!"
+msgstr "!لا يزيد عن 10 أحرف صينية في الاسم اللاسلكي"
+
+msgid "Password length not less than 8 bits!"
+msgstr "!طول كلمة المرور لا يقل عن 8 بتات"
+
+msgid "Password long long, please input again！"
+msgstr "!كلمة المرور طويلة، يرجى إدخالها مرة أخرى"
+
+msgid "visitor network"
+msgstr "شبكة الزوار"
+
+msgid "Whether visitors are allowed access to Intranet resources"
+msgstr "ما إذا كان يُسمح للزوار بالوصول إلى موارد الإنترانت"
+
+msgid "no"
+msgstr "لا"
+
+msgid "yes"
+msgstr "نعم"
+
+msgid "maximum upload speed on visitor network"
+msgstr "أقصى سرعة تحميل على شبكة الزوار"
+
+msgid "KB/s（0 means no limit）"
+msgstr "كيلو بايت / ثانية ( 0يعني عدم وجود حد)"
+
+msgid "maximum download speed in visitor network"
+msgstr "أقصى سرعة تنزيل في شبكة الزوار"
+
+msgid "whether to set the visitor network opening time"
+msgstr "ما إذا كان سيتم تعيين وقت فتح شبكة الزوار"
+
+msgid "open"
+msgstr "فتح"
+
+msgid "Automatically shut down the visitor network after hours"
+msgstr "إغلاق شبكة الزوار تلقائيًا بعد ساعات"
+
+msgid "Set the opening time of the cycle"
+msgstr "ضبط وقت فتح الدورة"
+
+msgid "Opening hours"
+msgstr "ساعات العمل"
+
+msgid "visitor network help"
+msgstr "مساعدة شبكة الزوار"
+
+msgid "Wireless name, wireless password"
+msgstr "اسم الشبكة اللاسلكية، كلمة مرور الشبكة اللاسلكية"
+
+msgid "Wireless name, wireless password help"
+msgstr " مسعدة اسم الشبكة اللاسلكية و كلمة مرور الشبكة اللاسلكية"
+
+msgid "Set the visitor's access to the Intranet"
+msgstr "تعيين وصول الزائر إلى الإنترانت"
+
+msgid "Maximum upload/download speed of visitor network"
+msgstr "أقصى سرعة تحميل/ تنزيل لشبكة الزوار"
+
+msgid "Set the maximum Internet speed for the entire visitor network"
+msgstr "تعيين الحد الأقصى لسرعة الإنترنت لشبكة الزوار بأكملها"
+
+msgid "Whether to set the visitor network opening time"
+msgstr "تحديد وقت عمل شبكة الزوار"
+
+msgid "Set the opening time of the visitor network"
+msgstr "ضبط وقت فتح شبكة الزوا"
+
+msgid "No more than 10 characters"
+msgstr "لا يزيد عن 10 أحرف"
+
+msgid "Timeouts should be set between 0 and 24 hours"
+msgstr "يجب ضبط المهلات بين 0 و 24 ساعة"
+
+msgid "Please select the cycle opening time"
+msgstr "الرجاء تحديد وقت فتح الدورة"
+
+msgid "hour"
+msgstr "ساعة"
+
+msgid "Monday"
+msgstr "الاثنين"
+
+msgid "Tuesday"
+msgstr "لثلاثاء"
+
+msgid "Wednesday"
+msgstr "لأربعاء"
+
+msgid "Thursday"
+msgstr "الخميس"
+
+msgid "Friday"
+msgstr "الجمعة"
+
+msgid "Saturday"
+msgstr "السبت"
+
+msgid "Sunday"
+msgstr "الأحد"
+
+msgid "WDS wireless bridge"
+msgstr "إعداد جسر لاسلكي"
+
+msgid "wds host password changed"
+msgstr "تم تغيير كلمة مرور مضيف إعداد جسر لاسلكي"
+
+msgid "wds host ssid missed"
+msgstr "معرف مجموعة الخدمات لمضيف إعداد جسر لاسلكي مفقود"
+
+msgid "Connection failed. Please try again"
+msgstr "فشل الاتصال. يرجى المحاولة مرة أخرى"
+
+msgid "Scanning is underway, please wait a moment..."
+msgstr "...المسح جار، يرجى الانتظار لحظة  "
+
+msgid "WDS netgroup wizard"
+msgstr "معالج مجموعة شبكة إعداد جسر لاسلكي"
+
+msgid "WDS intro1"
+msgstr "مقدمة إعداد جسر لاسلكي 1"
+
+msgid "WDS intro2"
+msgstr "مقدمة إعداد جسر لاسلكي 2"
+
+msgid "return"
+msgstr "عودة"
+
+msgid "please select a network"
+msgstr "الرجاء تحديد شبكة"
+
+msgid "Enter the wireless password for the main router"
+msgstr "أدخل كلمة المرور اللاسلكية لجهاز التوجيه الرئيسي"
+
+msgid "Please set the wireless parameters of this router"
+msgstr "الرجاء تعيين المعلمات اللاسلكية لجهاز التوجيه هذا"
+
+msgid "WDS network group information"
+msgstr "معلومات مجموعة شبكة إعداد جسر لاسلكي"
+
+msgid "master router"
+msgstr "جهاز التوجيه الرئيسي"
+
+msgid "This router"
+msgstr "جهاز التوجيه هذا"
+
+msgid "LAN port IP address"
+msgstr "عنوان آي بي لمنفذ الشبكة الواسعة"
+
+msgid "Close the WDS"
+msgstr "إغلاق إعداد جسر لاسلكي"
+
+msgid "Please select the main router you want to bridge"
+msgstr "الرجاء تحديد جهاز التوجيه الرئيسي الذي تريد توصيله"
+
+msgid "Encrypted information"
+msgstr "معلومات مشفرة"
+
+msgid "select"
+msgstr "تحديد"
+
+msgid "Scan failed"
+msgstr "فشل الفحص"
+
+msgid "connecting, please wait a moment..."
+msgstr "..تجري إعادة الاتصال، يرجى الانتظار لحظة "
+
+msgid "Failed to get information, please reconnect!"
+msgstr "!فشل الحصول على المعلومات، يرجى إعادة الاتصال"
+
+msgid "We are reconnecting. Please wait a moment..."
+msgstr "..تجري إعادة الاتصال. الرجاء الانتظار لحظ"
+
+msgid "Setting failed, please reset"
+msgstr "فشل الإعداد، يرجى إعادة التعيين"
+
+msgid "Operation failed, please try again!"
+msgstr "!فشل العملية، يرجى المحاولة مرة أخرى"
+
+msgid "set successfully"
+msgstr "تم ضبطه بنجاح"
+
+msgid "device information"
+msgstr "معلومات الجهاز"
+
+msgid "device model"
+msgstr "طراز الجهاز"
+
+msgid "current system time"
+msgstr "وقت النظام الحالي"
+
+msgid "system runtime"
+msgstr "وقت تشغيل النظام"
+
+msgid "wireless parameter"
+msgstr "معلمة لاسلكية"
+
+msgid "wireless mode"
+msgstr "الوضع اللاسلكي"
+
+msgid "band bandwidth"
+msgstr "عرض النطاق الترددي"
+
+msgid "wireless service"
+msgstr "خدمة لاسلكية"
+
+msgid "network name encoding"
+msgstr "ترميز اسم الشبكة"
+
+msgid "network type"
+msgstr "نوع الشبكة"
+
+msgid "employee network"
+msgstr "شبكة الموظفين"
+
+msgid "encryption"
+msgstr "تشفير"
+
+msgid "not encrypt"
+msgstr "غير مشفر"
+
+msgid "set password"
+msgstr "تعيين كلمة المرور"
+
+msgid "wireless internal network isolation"
+msgstr "عزل الشبكة الداخلية اللاسلكية"
+
+msgid "enable"
+msgstr "تمكين"
+
+msgid "Enable/disable this network"
+msgstr "تمكين/ تعطيل هذه الشبكة"
+
+msgid "wireless client"
+msgstr "عميل لاسلكي"
+
+msgid "serial number"
+msgstr "الرقم المسلسل"
+
+msgid "Plug in the wireless network"
+msgstr "توصيل الشبكة اللاسلكية"
+
+msgid "Access time"
+msgstr "وقت الوصول"
+
+msgid "setting"
+msgstr "إعداد"
+
+msgid "Please enter wireless name"
+msgstr "الرجاء إدخال الاسم اللاسلكي"
+
+msgid "The length of the wireless name is too long"
+msgstr "لطول الاسم اللاسلكي طويل جدًا"
+
+msgid "No more than 10 Chinese characters in wireless name"
+msgstr "لا يزيد عن 10 أحرف صينية في الاسم اللاسلكي"
+
+msgid "Set the password to no less than 8 bits"
+msgstr "اضبط كلمة المرور على ما لا يقل عن 8 بتات"
+
+msgid "Connection failed, please try again"
+msgstr "فشل الاتصال، يرجى المحاولة مرة أخرى"
+
+msgid "Setting failed"
+msgstr "فشل الإعداد"
+
+msgid "add successfully"
+msgstr "تمت الإضافة بنجاح"
+
+msgid "wireless MAC address filtering"
+msgstr "تصفية عنوان التحكم بالنفاذ للوسط  اللاسلكي"
+
+msgid "Enable wireless MAC address filtering"
+msgstr "تمكين تصفية عنوان التحكم بالنفاذ للوسط  اللاسلكي"
+
+msgid "wireless MAC address filtering rule settings"
+msgstr "إعدادات قاعدة تصفية عنوان التحكم بالنفاذ للوسط  اللاسلكي"
+
+msgid "effective range"
+msgstr "النطاق الفعال"
+
+msgid "remarks"
+msgstr "النطاق الفعال"
+
+msgid "VLAN setting"
+msgstr "إعداد الشبكة المحلية الافتراضية"
+
+msgid "wireless network and VLAN binding"
+msgstr "ربط الشبكة اللاسلكية و الشبكة المحلية الافتراضية"
+
+msgid "The MAC address list is empty"
+msgstr "قائمة عناوين التحكم بالنفاذ للوسط فارغة"
+
+msgid "MAC address format is not legal"
+msgstr "تنسيق عناوين التحكم بالنفاذ للوسط غير قانوني"
+
+msgid "Please select the filter effective range"
+msgstr "الرجاء تحديد نطاق المرشح الفعال"
+
+msgid "add failure"
+msgstr "إضافة فشل"
+
+msgid "successfully delete"
+msgstr "حذف بنجاح"
+
+msgid "Delete failed"
+msgstr "فشل الحذف"
+
+msgid "Enable MAC address filtering is that the filter rule cannot be empty"
+msgstr "تمكين تصفية عنوان التحكم بالنفاذ للوسط  بأنه لا يمكن أن تكون قاعدة المرشح فارغة"
+
+msgid "There is an illegal ssid, please check the input"
+msgstr "هناك معرف مجموعة الخدمات غير قانوني، يرجى التحقق من الإدخال"
+
+msgid "Connection to router failed"
+msgstr "فشل الاتصال بجهاز التوجيه"
+
+msgid "When wireless binding to the VLAN is enabled, the VLAN ID cannot be empty"
+msgstr "عند تمكين الربط اللاسلكي بالشبكة المحلية الافتراضية، لا يمكن أن يكون معرف الشبكة المحلية الافتراضية فارغًا"
+
+msgid "Invalid vlanID, please make sure its value is between 1-4049"
+msgstr " 4049-1 معرف الشبكة المحلية الافتراضية غير صالح، يرجى التأكد من أن قيمته بين"
+
+msgid "fail to modify"
+msgstr "فشل التعديل"
+
+msgid "default gateway"
+msgstr "البوابة الافتراضية"
+
+msgid "LED switch"
+msgstr "مفتاح إل إي دي"
+
+msgid "enable WiFi control"
+msgstr "تمكين التحكم في واي فاي"
+
+msgid "WEB service port"
+msgstr "منفذ خدمة ويب"
+
+msgid "WEB session timeout"
+msgstr "مهلة جلسة الويب"
+
+msgid "account management"
+msgstr "إدارة الحساب"
+
+msgid "confirm password"
+msgstr "تأكيد كلمة المرور"
+
+msgid "view system logs"
+msgstr "عرض سجلات النظام"
+
+msgid "view"
+msgstr "عرض"
+
+msgid "download system log"
+msgstr "تنزيل سجل النظام"
+
+msgid "download"
+msgstr "تنزيل"
+
+msgid "time & language"
+msgstr "الوقت واللغة"
+
+msgid "prefered NTP server"
+msgstr "خادم بروتوكول وقت الشبكة المفضل"
+
+msgid "alternate NTP server"
+msgstr "خادم بروتوكول وقت الشبكة البديل"
+
+msgid "configuration management"
+msgstr "إدارة التكوين"
+
+msgid "backup configuration"
+msgstr "تكوين النسخ الاحتياطي"
+
+msgid "import configuration"
+msgstr "استيراد التكوين"
+
+msgid "browse"
+msgstr "التصفح"
+
+msgid "load the configuration"
+msgstr "تحميل التكوين"
+
+msgid "recover factory reset"
+msgstr "استعادة ضبط المصنع"
+
+msgid "restart device "
+msgstr "إعادة تشغيل الجهاز"
+
+msgid "restart"
+msgstr "إعادة التشغيل"
+
+msgid "software upgrade"
+msgstr "ترقية البرنامج"
+
+msgid "Ping watchdog"
+msgstr "مراقب بينج"
+
+msgid "destination IP address"
+msgstr "عنوان آي بي للوجهة"
+
+msgid "contract period"
+msgstr "فترة العقد"
+
+msgid "start delay"
+msgstr "تأخير البدء"
+
+msgid "maximum number of lost packets"
+msgstr "الحد الأقصى لعدد الحزم المفقودة"
+
+msgid "Subnet mask is not valid, please input again"
+msgstr "قناع الشبكات الجزئية غير صالح، الرجاء الإدخال مرة أخرى"
+
+msgid "Gateway error, please input again"
+msgstr "خطأ في البوابة، يرجى الإدخال مرة أخرى"
+
+msgid "The port number range is limited to 0-65535"
+msgstr "نطاق رقم المنفذ محدود بـ 0-65535"
+
+msgid "WEB session timeout should be limited to 30-300 seconds"
+msgstr "يجب أن تقتصر مهلة جلسة ويب على 30-300 ثانية"
+
+msgid "It's jumping, please wait..."
+msgstr "...الوصلة المباشرة جارية، يرجى الانتظار  "
+
+msgid "Two password input inconsistent"
+msgstr "إدخالان لكلمة المرور غير متسقين"
+
+msgid "The original password is wrong, please input again"
+msgstr "كلمة المرور الأصلية خاطئة، يرجى إدخالها مرة أخرى"
+
+msgid "log contents"
+msgstr "محتويات السجل"
+
+msgid "Recovering, please wait..."
+msgstr "...جاري الاسترداد، يرجى الانتظار "
+
+msgid "Factory reset failed"
+msgstr "فشل إعادة ضبط المصنع"
+
+msgid "The preferred NTP server cannot be empty"
+msgstr "لا يمكن أن يكون خادم بروتوكول وقت الشبكة المفضل فارغًا"
+
+msgid "Not legal domain name or IP, please input again！"
+msgstr "ليس اسم نطاق قانونيًا أو آي بي، يرجى إدخاله مرة أخرى"
+
+msgid "Please select load profile first"
+msgstr "الرجاء تحديد تحميل الملف الشخصي أولاً"
+
+msgid "File type illegal! Please reselect"
+msgstr "نوع الملف غير قانوني! الرجاء إعادة التحديد"
+
+msgid "Please wait while configuration is underway..."
+msgstr "...الرجاء الانتظار أثناء إجراء التكوين "
+
+msgid "Image files are illegal"
+msgstr "ملفات الصور غير قانونية"
+
+msgid "Upgrade error"
+msgstr "خطأ في الترقية"
+
+msgid "Is being upgraded, please wait a moment..."
+msgstr "...الترقية جارية، يرجى الانتظار لحظة "
+
+msgid "The contract period is limited to 10-300 seconds"
+msgstr "مدة العقد محددة بـ 10-300 ثانية"
+
+msgid "The startup delay is limited to 60-300 seconds"
+msgstr "تأخير بدء التشغيل محدود بـ 60-300 ثانية"
+
+msgid "The number of bags allowed is limited to 1-35535"
+msgstr "35535 -عدد الحقائب المسموح بها محدد بـ 1"
+
+msgid "connection fails"
+msgstr "فشل الاتصال"
+
+msgid "Are you sure to restore factory Settings"
+msgstr "هل أنت متأكد من استعادة إعدادات المصنع"
+
+msgid "Are you sure to restart the panel"
+msgstr "هل أنت متأكد من إعادة تشغيل اللوحة"
+
+msgid "Are you sure to confirm import configuration"
+msgstr "هل أنت متأكد من تأكيد تكوين الاستيراد"
+
+msgid "After setting the IP address, the PC must visit the management page in the unified network segment."
+msgstr "بعد تعيين عنوان آي بي، يجب أن يقوم الكمبيوتر بزيارة صفحة الإدارة في ملف شريحة شبكة موحدة"
+
+msgid "advanced settings"
+msgstr "الإعدادات المتقدمة"
+
+msgid "wireless channel"
+msgstr "قناة لاسلكية"
+
+msgid "transmission power"
+msgstr "قوة الإرسال"
+
+msgid "Beacon time slot"
+msgstr "فترة زمنية لمرشد لاسلكي"
+
+msgid "Milliseconds 40-1000"
+msgstr "ميلي ثانية 40-1000"
+
+msgid "Client limitations"
+msgstr "قيود العميل"
+
+msgid "Prohibit signal strength below"
+msgstr "منع قوة الإشارة أدناه"
+
+msgid "DBm wireless client access range error"
+msgstr "خطأ في نطاق وصول ديسيبل ميلي واط  اللاسلكي للعميل"
+
+msgid "The kick signal strength is lower than"
+msgstr "قوة إشارة الارتداد أقل من"
+
+msgid "Wireless client of dBm"
+msgstr "العميل اللاسلكي لـديسيبل ميلي واط"
+
+msgid "Isolation between wireless networks"
+msgstr "العزلة بين الشبكات اللاسلكية"
+
+msgid "Wireless network name cannot be empty"
+msgstr "لا يمكن أن يكون اسم الشبكة اللاسلكية فارغًا"
+
+msgid "Cannot set duplicate wireless network name"
+msgstr "لا يمكن تعيين اسم شبكة لاسلكية مماثل"
+
+msgid "Set 2.4g wireless network to no more than 4"
+msgstr "اضبط شبكة 2.4جي اللاسلكية على ما لا يزيد عن  4 "
+
+msgid "Set up 5G wireless network to no more than 4"
+msgstr "إعداد شبكة 5جي اللاسلكية بما لا يزيد عن 4"
+
+msgid "The transmission power range is 0-20dbm"
+msgstr "نطاق قدرة الإرسال هو 0-20ديسيبل ميلي واط"
+
+msgid "Beacon time slots range from 40 to 1000 milliseconds"
+msgstr "تتراوح فتحات وقت المرشد اللاسلكي من 40 إلى 1000 مللي ثانية"
+
+msgid "The client limit is 1-40"
+msgstr "حد العميل هو 1-40"
+
+msgid "The signal strength must not be empty"
+msgstr "يجب ألا تكون قوة الإشارة فارغة"
+
+msgid "The wireless client access range error"
+msgstr "خطأ نطاق وصول العميل اللاسلكي！"
+
+msgid "The kick signal strength cannot be empty"
+msgstr "لا يمكن أن تكون قوة إشارة الارتداد فارغة"
+
+msgid "Wireless client ban signal strength range error"
+msgstr "خطأ في نطاق قوة إشارة حظر العميل اللاسلكي"
+
+msgid "wireless client ban signal strength range should be enable"
+msgstr "يجب تمكين نطاق قوة إشارة حظر العميل اللاسلكي"
+
+msgid "The router is not encrypted and confirm the connection. Please click next."
+msgstr "جهاز التوجيه غير مشفر وقم بتأكيد الاتصال. الرجاء النقر فوق التالي."
+
+msgid "router connection failure"
+msgstr "فشل اتصال جهاز التوجي"
+
+msgid "password should be no more than 63 bits long"
+msgstr "يجب ألا يزيد طول كلمة المرور عن 63 بت"
+
+msgid "router function"
+msgstr "وظيفة جهاز التوجيه"
+
+msgid "please select"
+msgstr "الرجاء تحديد"
+
+msgid "alternate DNS server address error, please input again"
+msgstr "خطأ في عنوان خادم نظام أسماء النطاقات البديل، يرجى الإدخال مرة أخرى"
+
+msgid "configuration failure"
+msgstr "فشل التكوين"
+
+msgid "IP address or domain name can not be empty"
+msgstr "لا يمكن أن يكون عنوان آي بي أو اسم النطاق فارغين"
+
+msgid "IP address or domain name is illegal"
+msgstr "عنوان آي بي أو اسم النطاق غير قانوني"
+
+msgid "Ping timeout limit is 1-100 seconds"
+msgstr "حد مهلة بينج هو 1-100 ثانية"
+
+msgid "Ping packet size is limited to 4-1472"
+msgstr "حجم حزمة بينج محدود بـ 4-1472"
+
+msgid "The number of Ping packages is limited to 1-50"
+msgstr " عدد حزم بينج محدود بـ 1-50"
+
+msgid "Tracert hop count is limited to 1-30"
+msgstr "عدد الوصلات المباشرة لمسار التتبع محدود بـ 1-30"
+
+msgid "Debugging failed. Please try again."
+msgstr "فشل التصحيح. يرجى المحاولة مرة أخرى."
+
+msgid "Current connection device"
+msgstr "جهاز الاتصال الحالي"
+
+msgid "Current network speed"
+msgstr "سرعة الشبكة الحالية"
+
+msgid "Limit download speed"
+msgstr "تحديد سرعة التنزيل"
+
+msgid "Limit upload speed"
+msgstr "تحديد سرعة الرفع"
+
+msgid "Disable"
+msgstr "تعطيل"
+
+msgid "Currently banned devices"
+msgstr "الأجهزة المحظورة حاليًا"
+
+msgid "Lift a ban"
+msgstr "رفع الحظر"
+
+msgid "please enter at least 8-63 characters"
+msgstr "الرجاء إدخال ما لا يقل عن 8-63 حرفًا"
+
+msgid "WAN connection is not connected"
+msgstr "الشبكة الواسعة غير متصلة"
+
+msgid "Login password"
+msgstr "كلمة مرور تسجيل الدخول"
+
+msgid "Forget the password"
+msgstr "نسيت كلمة المرور"
+
+msgid "If you forget your password, please resume the factory settings. Recovery: When the device  is powered on, hold down the Reset button until all the lights are on at the same time and release"
+msgstr "إذا نسيت كلمة المرور الخاصة بك، فالرجاء استئناف إعدادات المصنع. الاسترداد: عند تشغيل الجهاز، اضغط مع الاستمرار على زر إعادة الضبط حتى يضيء جميع الأضواء في نفس الوقت ثم أطلقها"
+
+msgid "scan me to download the app"
+msgstr "امسحني ضوئيًا لتنزيل التطبيق"
+
+msgid "experience more features"
+msgstr "تجربة المزيد من الميزات"
+
+msgid "parameters"
+msgstr "المعلمات"
+
+msgid "device management"
+msgstr "إدارة الجهاز"
+
+msgid "Manage"
+msgstr "إدارة"
+
+msgid "Advanced"
+msgstr "متقدم"
+
+msgid "upgrading"
+msgstr "ترقية"
+
+msgid "OTA"
+msgstr " عبر البث الهوائي"
+
+msgid "whether auto OTA"
+msgstr "سواءعبر البث الهوائي تلقائيا"
+
+msgid "Export"
+msgstr "تصدير"
+
+msgid "Wireless"
+msgstr "لاسلكي"
+
+msgid "WAN setting"
+msgstr "(WAN)إعداد الشبكة الواسعة"
+
+msgid "Parameters"
+msgstr "لمعلمات"
+
+msgid "to encrypt"
+msgstr "التشفير"
+
+msgid "AP SET"
+msgstr "ضبط نقطة الاتصال"
+
+msgid "operated"
+msgstr "م التشغيل"
+
+msgid "Scan"
+msgstr "مسح ضوئي"
+
+msgid "LoadConfig"
+msgstr "تحميل التكوين"
+
+msgid "Group List"
+msgstr "قائمة المجموعة"
+
+msgid "add new"
+msgstr "إضافة جديد"
+
+msgid "backups"
+msgstr "نسخ احتياطية"
+
+msgid "Group Name"
+msgstr "اسم المجموعة"
+
+msgid "Wireless Status"
+msgstr "حالة الاتصال اللاسلكي"
+
+msgid "ENABLE"
+msgstr "مكين"
+
+msgid "forbid"
+msgstr "حظر"
+
+msgid "1-32 characters"
+msgstr "1-32 حرفا"
+
+msgid "Wireless isolation"
+msgstr "عزل لاسلكي"
+
+msgid "Wireless hide"
+msgstr "إخفاء لاسلكي"
+
+msgid "off the security options"
+msgstr "خيارات خارج الأمان"
+
+msgid "Wireless password"
+msgstr "كلمة مرور لاسلكية"
+
+msgid "bandwidth limit"
+msgstr "حد النطاق الترددي"
+
+msgid "upload limit"
+msgstr "حد التحميل"
+
+msgid "download limit"
+msgstr "حد التنزيل"
+
+msgid "Edit list"
+msgstr "تحرير قائمة"
+
+msgid "frequency band"
+msgstr "نطاق التردد"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "(1-45characters)"
+msgstr "45-1 حرفا"
+
+msgid "AP alive-time"
+msgstr "وقت نشاط نقطة الاتصال"
+
+msgid "(20-80 seconds)"
+msgstr "(ثانية 80-20 )"
+
+msgid "client-alive-time"
+msgstr "وقت نشاط العميل"
+
+msgid "client-idle-time"
+msgstr "وقت خمول العميل"
+
+msgid "ON"
+msgstr "تشغيل"
+
+msgid "OFF"
+msgstr "إيقاف"
+
+msgid "group-info"
+msgstr "معلومات المجموعة"
+
+msgid "Set"
+msgstr "ضبط"
+
+msgid "Please input group name"
+msgstr "الرجاء إدخال اسم المجموعة"
+
+msgid "Please input SSID"
+msgstr "الرجاء إدخال معرف مجموعة الخدمات"
+
+msgid "Please input wireless-password"
+msgstr "الرجاء إدخال كلمة مرور لاسلكية"
+
+msgid "Please input upload limit"
+msgstr "الرجاء إدخال حد التحميل"
+
+msgid "Please input download limit"
+msgstr "الرجاء إدخال حد التنزيل"
+
+msgid "set successful"
+msgstr "تم ضبطه بنجاح"
+
+msgid "modified"
+msgstr "معدل"
+
+msgid "modify failed,please retry"
+msgstr "فشل الاتصال، يرجى إعادة المحاولة"
+
+msgid "connect failed,please retry "
+msgstr "فشل الاتصال، يرجى إعادة المحاولة"
+
+msgid "modify failed"
+msgstr "فشل التعديل"
+
+msgid "Please select loadconfig file"
+msgstr "الرجاء تحديد ملف تحميل التكوين"
+
+msgid "deleted"
+msgstr "محذوفة"
+
+msgid "operation"
+msgstr "عملية"
+
+msgid "offline"
+msgstr "غير متصل"
+
+msgid "abnormal"
+msgstr "غير طبيعي"
+
+msgid "IP and MAC binding setting"
+msgstr "إعداد ربط آي بي و عنوان التحكم بالنفاذ للوسط"
+
+msgid "MAC Address"
+msgstr "عنوان التحكم بالنفاذ للوسط "
+
+msgid "(3-1800 seconds)"
+msgstr "(1800-3 ثانية)"
+
+msgid "(60-86400 seconds)"
+msgstr "(86400-60 ثانية)"
+
+msgid "One network address filter can be enabled, and when enabled, other MAC addresses cannot use the network"
+msgstr "يمكن تمكين مرشح عنوان شبكة واحد، وعند التمكين، لا يمكن لعناوين التحكم بالنفاذ للوسط  الأخرى استخدام الشبكة"
+
+msgid "With this enabled, the VLAN associated with the current wireless network can be set, and the host under the current wireless network will not be able to communicate with the devices in other vlans"
+msgstr "مع تمكين هذا، يمكن تعيين الشبكة المحلية الافتراضية المرتبطة بالشبكة اللاسلكية الحالية، ولن يتمكن المضيف ضمن الشبكة اللاسلكية الحالية من الاتصال بالأجهزة في الشبكات المحلية الافتراضية الأخرى"
+
+msgid "(note: WLAN ID 0/1/2 cannot be set)"
+msgstr "(ملاحظة: لا يمكن تعيين معرف الشبكة المحلية اللاسلكية 0/1/2))"
+
+msgid "Operation failed. The current entry conflicts with the existing one"
+msgstr "فشلت العملية. الإدخال الحالي يتعارض مع ما هو موجود"
+
+msgid "LED light switch: after setting, press the LED key on the panel to trigger the WIFI switch"
+msgstr "مفتاح ضوء ال إي دي: بعد الإعداد، اضغط على مفتاح ال إي دي على اللوحة لتشغيل مفتاح واي فاي"
+
+msgid "The first time you start the panel you do not synchronize network time"
+msgstr "في المرة الأولى التي تبدأ فيها تشغيل اللوحة لا تزامن وقت الشبكة"
+
+msgid "You can set up different NTP servers, which will automatically synchronize the time when the AP is online"
+msgstr "يمكنك إعداد خوادم بروتوكول وقت شبكة مختلفة، والتي ستعمل تلقائيًا على مزامنة الوقت عندما تكون نقطة الوصول متصلة بالإنترنت"
+
+msgid "If the specified IP cannot PING, the system should restart automatically if the set threshold is reached."
+msgstr "إذا تعذرت على آي بي المحدد عملية بينج، فيجب إعادة تشغيل النظام تلقائيًا إذا تم الوصول إلى الحد المعين."
+
+msgid "Port number cannot be empty"
+msgstr "رقم المنفذ لا يمكن أن يكون فارغًا"
+
+msgid "Configured successfully, please manually jump IP address after network restart!"
+msgstr "!تم التكوين بنجاح، يرجى القيام بالوصلة المباشرة يدويًا بعنوان آي بي بعد إعادة تشغيل الشبكة"
+
+msgid "This is used to set the wireless working mode of the AP"
+msgstr "يستخدم هذا لضبط وضع العمل اللاسلكي لنقطة الوصول"
+
+msgid "language set"
+msgstr "مجموعة اللغة "
+
+msgid "language"
+msgstr "لغة"
+
+msgid "input param error"
+msgstr "خطأ معلمة الإدخال"
+
+msgid "no mac address received"
+msgstr "لم يتم استلام عنوان التحكم بالنفاذ للوسط"
+
+msgid "operation is not permit"
+msgstr "العملية غير مسموح بها"
+
+msgid "param protocol version not found"
+msgstr "إصدار معلمة بروتوكول غير موجودة"
+
+msgid "get dhcp ip timeout"
+msgstr "(DHCP)الحصول على مهلة آي بي  لبروتوكول التهيئة الآلية للمضيفين "
+
+msgid "pppoe connect timeout"
+msgstr "(PPPoE)مهلة اتصال بروتوكول النقطة إلى النقطة عبر إيثرنت "
+
+msgid "pppoe username or password error"
+msgstr "(PPPoE)خطأ في اسم المستخدم أو كلمة مرور بروتوكول النقطة إلى النقطة عبر إيثرنت "
+
+msgid "check wan out of link"
+msgstr "تحقق من عدم وجود ارتباط الشبكة الواسعة"
+
+msgid "dns in the same segment with lan"
+msgstr "نظام أسماء النطاقات في نفس المقطع مع الشبكة المحلية"
+
+msgid "wan in the same segment with lan"
+msgstr "الشبكة الواسعة في نفس المقطع مع الشبكة المحلية"
+
+msgid "download image checksum error"
+msgstr "خطأ اختباري لتنزيل الصورة"
+
+msgid "image version newest"
+msgstr "إصدار الصورة الأحدث"
+
+msgid "localversion the same with otaversion"
+msgstr "الإصدار المحلي هو نفس الإصدار عبر البث الهوائي"
+
+msgid "otaversion information not downloaded"
+msgstr "لم يتم تنزيل معلومات برامج عبر البث الهوائي"
+
+msgid "waiting for ota upgrade"
+msgstr "في انتظار ترقية برامج عبر البث الهوائي"
+
+msgid "old password is incorrect"
+msgstr "كلمة المرور القديمة غير صحيحة"
+
+msgid "wifi wds connect fail"
+msgstr "فشل اتصال نظام التوزيع اللاسلكي"
+
+msgid "file read or write fail"
+msgstr "فشل قراءة أو كتابة الملف"
+
+msgid "not enough storage"
+msgstr "لا توجد مساحة تخزين كافية"
+
+msgid "unknown error"
+msgstr "خطأ غير معروف"
+
+msgid "try again"
+msgstr "حاول مرة أخرى"
+
+msgid "device busy"
+msgstr "الجهاز مشغول"
+
+msgid "device ont found"
+msgstr "تم العثور على الجهاز"
+
+msgid "device online, can not be remove"
+msgstr "الجهاز متصل بالإنترنت، لا يمكن إزالته"
+
+msgid "ap no response"
+msgstr "لا يوجد رد من نقطة الوصول"
+
+msgid "connection reset by peer"
+msgstr "إعادة تعيين الاتصال بواسطة النظير"
+
+msgid "protocol version not support"
+msgstr "إصدار البروتوكول لا يدعم"
+
+msgid "unknown command"
+msgstr "أمر غير معروف"
+
+msgid "unknown signal_mode"
+msgstr "وضع إشارة غير معروف"
+
+msgid "no ssid exist in router"
+msgstr "لا يوجد معرف مجموعة الخدمات في جهاز التوجيه"
+
+msgid "ssid doesn't match"
+msgstr "معرف مجموعة الخدمات غير متطابق"
+
+msgid "reset is running, can't reset in this interval"
+msgstr "إعادة التعيين قيد التشغيل، لا يمكن إعادة التعيين في هذا الفاصل الزمني"
+
+msgid "can't get lan speed"
+msgstr "لا يمكنني الحصول على سرعة الشبكة المحلية"
+
+msgid "authentication fail"
+msgstr "فشل التصديق"
+
+msgid "router has been bind"
+msgstr "تم ربط جهاز التوجيه"
+
+msgid "empty userid"
+msgstr "معرف المستخدم فارغ"
+
+msgid "internel socket error"
+msgstr "خطأ في المقبس الداخلي"
+
+msgid "bind router fail"
+msgstr "فشل ربط جهاز التوجيه"
+
+msgid "router has not bind yet"
+msgstr "لم يتم ربط جهاز التوجيه بعد"
+
+msgid "unbind router fail"
+msgstr "فشل فك ربط جهاز التوجيه"
+
+msgid "unbind fail case caller is not binder"
+msgstr "حالة فشل فك الربط المتصل لا يربط"
+
+msgid "set device fail mac-addr is empty"
+msgstr "تعيين فشل الجهاز ، عنوان التحكم بالنفاذ للوسط  فارغ"
+
+msgid "set wifi fail the setting param is empty"
+msgstr "تعيين فشل واي فاي، معلمة الإعداد فارغة"
+
+msgid "execute check wan type exception"
+msgstr "تنفيذ تحقق من استثناء نوع  الشبكة الواسعة"
+
+msgid "prase wan type result fail"
+msgstr " فشل نتيجة توزيع نوع الشبكة الواسعة"
+
+msgid "execute get wan type exception"
+msgstr "تنفيذ الحصول على استثناء من نوع الشبكة الواسعة"
+
+msgid "execute set wan unable to get type"
+msgstr "مجموعة تنفيذ: الشبكة الواسعة غير قادرة على الحصول على النوع"
+
+msgid "execute set wan get a unnormal type"
+msgstr "مجموعة تنفيذ: يتم حصول الشبكة الواسعة على نوع غير طبيعي"
+
+msgid "execute set wan unable to get dns input"
+msgstr " مجموعة تنفيذ : الشبكة الواسعة غير قادرة على الحصول على إدخال نظام أمساء النطاقات"
+
+msgid "save user ip address and port fail"
+msgstr "حفظ عنوان آي بي للمستخدم وفشل المنفذ"
+
+msgid "execute set wan pppoe connect timeout"
+msgstr "مجموعة تنفيذ مهلة اتصال بروتوكول النقطة إلى النقطة عبر إيثرنت (PPPoE) للشبكة الواسعة"
+
+msgid "check manager param fail"
+msgstr "تحقق من فشل معلمة المدير"
+
+msgid "do manager operation fail"
+msgstr "هل تفشل عملية المدير"
+
+msgid "checksum not match the ota_checksum"
+msgstr "الاختبار لا يتطابق مع الاختبار عبر الهواء"
+
+msgid "upload log file to cloud failed"
+msgstr "فشل تحميل ملف السجل إلى السحابة"
+
+msgid "upload log url info failed"
+msgstr "فشل تحميل معلومات يو آر ال الخاصة بالسجل"
+
+msgid "waiting for another log upload"
+msgstr "انتظار تحميل سجل آخر"
+
+msgid "create p2p fail"
+msgstr "إنشاء فشل بي2بي"
+
+msgid "destroy p2p fail"
+msgstr "تدمير فشل بي2بي"
+
+msgid "some mandatory parameter is nil"
+msgstr "بعض المعلمات الإلزامية غير موجودة"
+
+msgid "some parameters of zigbee rule is illegal"
+msgstr "بعض معلمات قاعدة زيجبي غير قانونية"
+
+msgid "the request type is unknown"
+msgstr "نوع الطلب غير معروف"
+
+msgid "the database parameter is illegal"
+msgstr "معلمة قاعدة البيانات غير قانونية"
+
+msgid "the device does not exist in database"
+msgstr "الجهاز غير موجود في قاعدة البيانات"
+
+msgid "the setting devices no one online"
+msgstr "أجهزة الإعداد لا أحد متصل"
+
+msgid "create zigbee rule failed"
+msgstr "فشل إنشاء قاعدة زيجبي"
+
+msgid "upload image type error"
+msgstr "خطأ في نوع تحميل الصورة"
+
+msgid "input password invalid"
+msgstr "إدخال كلمة المرور غير صالحة"
+
+msgid "wifi number reach limit"
+msgstr "وصول عدد واي فاي إلى الحد الأقصى"
+
+msgid "wifi channal not match htmode"
+msgstr "قناة واي فاي لا تتطابق مع وضع اتش تي"
+
+msgid "input mac address invalid"
+msgstr "إدخال عنوان التحكم بالنفاذ للوسط غير صالح"
+
+msgid "gateway and LAN not in the same segment"
+msgstr "البوابة والشبكة المحلية ليستا في نفس المقطع"
+
+msgid "gateway is not in WAN segment"
+msgstr "البوابة ليست في مقطع الشبكة الواسعة"
+
+msgid "ac upgrade ap fail"
+msgstr "فشل نقطة اتصال ترقية ايه سي"
+
+msgid "download img fail, please check your network"
+msgstr "فشل تنزيل الصورة، يرجى التحقق من الشبكة"
+
+msgid "get remote server info fail"
+msgstr "الحصول على فشل معلومات الخادم البعيد"
+
+msgid "OTA checking software version"
+msgstr "التحقق من إصدار برنامج عبر البث الهوائي"
+
+msgid "ota download"
+msgstr "تنزيل عبر البث الهوائي"
+
+msgid "ap ota download"
+msgstr "تنزيل نقطة الاتصال عبر البث الهوائي"
+
+msgid "ap ota upgrade"
+msgstr "ترقية نقطة الاتصال عبر البث الهوائي"
+
+msgid "no ap need upgrade"
+msgstr "لا نقطة اتصال تحتاج الى الترقية。"
+
+msgid "ap mac list"
+msgstr "قائمة عنوان التحكم بالنفاذ للوسط لنقطة الاتصال"
+
+msgid "send upgrade to ap error"
+msgstr "إرسال الترقية إلى خطأ نقطة الاتصال"
+
+msgid "ap flash"
+msgstr "فلاش نقطة الاتصال"
+
+msgid "ap mac upgrade error"
+msgstr "خطأ ترقية عنوان التحكم بالنفاذ للوسط لنقطة الاتصال"
+
+msgid "ap upgrade timeout"
+msgstr "مهلة ترقية نقطة الاتصال"
+
+msgid "ap upgrade done"
+msgstr "تم ترقية ap نقطة الاتصال "
+
+msgid "ap download error"
+msgstr "خطأ تنزيل نقطة الاتصال"
+
+msgid "ota flash"
+msgstr "فلاش عبر البث الهوائي"
+
+msgid "ap timeout"
+msgstr "مهلة نقطة الاتصال"
+
+msgid "OTA not run"
+msgstr "لا يعمل برامج عبر البث الهوائي"
+
+msgid "frequence intergration"
+msgstr "تداخل التردد"
+
+msgid "confirm to alter wifi"
+msgstr "تأكيد تعديل واي فاي"
+
+msgid "input netmask is illegal"
+msgstr "قناع شبكة الإدخال غير قانوني"

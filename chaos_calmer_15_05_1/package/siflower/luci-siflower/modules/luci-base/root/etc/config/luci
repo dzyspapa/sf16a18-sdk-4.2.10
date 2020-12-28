@@ -14,8 +14,8 @@ config extern flash_keep
 	
 config internal languages
 	option en 'English'
-        option zh_cn 'chinese'
-	
+	option ae 'Arabic'
+
 config internal sauth
 	option sessionpath "/tmp/luci-sessions"
 	option sessiontime 3600

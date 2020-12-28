@@ -122,15 +122,15 @@ local wirelessnew = require "luci.controller.admin.wirelessnew"
                     <div class="bcRCon">
 
                         <ul id="NSetMenu" class="bEptMenu">
-                            <li id="net-pppoe" onclick="netBtn(1);hidTip()" class="bEptMenuLi liBottomBorder" style="width:160px;">
+                            <li id="net-pppoe" onclick="netBtn(1);hidTip()" class="bEptMenuLi liBottomBorder" style="width:180px;">
 							<span class="des"><%:broadband dial-up%></span>
                             </li>
                             <li id="net-static" onclick="netBtn(2);hidTip()" class="bEptMenuLi" style="width:160px;">
 							<span class="des"><%:static IP address%></span></li>
-                            <li id="net-dhcp" onclick="netBtn(3);hidTip()" class="bEptMenuLi" style="width:160px;">
+                            <li id="net-dhcp" onclick="netBtn(3);hidTip()" class="bEptMenuLi" style="width:240px;">
 							<span class="des"><%:automatically get IP address%></span></li>
                             <% if not disable_switch  then %>
-                            <li id="net-wds" onclick="redirectWds()" class="bEptMenuLi" style="width:160px;">
+                            <li id="net-wds" onclick="redirectWds()" class="bEptMenuLi" style="width:60px;">
 							<span class="des"><%:WDS%></span></li>
                             <% end %>
                             <li id="auto-detect" class="bEptMenuLi">

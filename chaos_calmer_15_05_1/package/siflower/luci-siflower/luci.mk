@@ -37,6 +37,7 @@ LUCI_LANG.uk=украї́нська (Ukrainian)
 LUCI_LANG.vi=Tiếng Việt (Vietnamese)
 LUCI_LANG.zh-cn=中文 (Chinese)
 LUCI_LANG.zh-tw=臺灣華語 (Taiwanese)
+LUCI_LANG.ae=عربى (Arabic)
 
 # Submenu titles
 LUCI_MENU.col=1. Collections
